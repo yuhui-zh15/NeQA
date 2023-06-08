@@ -1,0 +1,5221 @@
+,prompt,classes,answer_index
+0,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Drums is not made of
+A. wood
+B. steel
+Answer:","[' A', ' B']",1
+1,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Horses do not run
+A. hard
+B. fast
+Answer:","[' A', ' B']",0
+2,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fiddling does not require
+A. practice
+B. flexibility
+Answer:","[' A', ' B']",1
+3,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Smiling does not indicate
+A. wisdom
+B. happiness
+Answer:","[' A', ' B']",0
+4,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Helicoptors cannot
+A. fly
+B. climb
+Answer:","[' A', ' B']",1
+5,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Moths do not have
+A. claws
+B. wings
+Answer:","[' A', ' B']",0
+6,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cocaine is not
+A. illegal
+B. common
+Answer:","[' A', ' B']",1
+7,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Trash cannot be
+A. dangerous
+B. recycled
+Answer:","[' A', ' B']",0
+8,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Name is not proper
+A. noun
+B. address
+Answer:","[' A', ' B']",1
+9,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Skating does not require
+A. clothing
+B. coordination
+Answer:","[' A', ' B']",0
+10,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Doves cannot
+A. fly
+B. talk
+Answer:","[' A', ' B']",1
+11,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Burlap is not a type of
+A. mattress
+B. fabric
+Answer:","[' A', ' B']",0
+12,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Olives cannot be
+A. eaten
+B. smoked
+Answer:","[' A', ' B']",1
+13,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bottle cannot be made of
+A. clay
+B. plastic
+Answer:","[' A', ' B']",0
+14,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Crying is not part of
+A. life
+B. love
+Answer:","[' A', ' B']",1
+15,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Success does not require extra
+A. money
+B. effort
+Answer:","[' A', ' B']",0
+16,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A beagle is not a type of
+A. dog
+B. pigeon
+Answer:","[' A', ' B']",1
+17,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Indigo is not a
+A. flower
+B. color
+Answer:","[' A', ' B']",0
+18,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A nutdriver is not a type of
+A. tool
+B. screw
+Answer:","[' A', ' B']",1
+19,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some stoves are not
+A. plastic
+B. electric
+Answer:","[' A', ' B']",0
+20,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: An auk is not a type of
+A. bird
+B. whale
+Answer:","[' A', ' B']",1
+21,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Floriade is not a
+A. forest
+B. festival
+Answer:","[' A', ' B']",0
+22,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Accuracy is not a
+A. virtue
+B. constant
+Answer:","[' A', ' B']",1
+23,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Crips is not a type of
+A. terrorist
+B. gang
+Answer:","[' A', ' B']",0
+24,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Leafs are not
+A. green
+B. white
+Answer:","[' A', ' B']",1
+25,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A Walkman is not a type of
+A. synthesizer
+B. radio
+Answer:","[' A', ' B']",0
+26,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cans cannot be
+A. recycled
+B. locked
+Answer:","[' A', ' B']",1
+27,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fishermen cannot catch
+A. flies
+B. fish
+Answer:","[' A', ' B']",0
+28,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Toothpick is not made of
+A. plastic
+B. clay
+Answer:","[' A', ' B']",1
+29,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: LSD is not a
+A. disease
+B. drug
+Answer:","[' A', ' B']",0
+30,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Study is not part of
+A. education
+B. discipline
+Answer:","[' A', ' B']",1
+31,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lizards do not have a
+A. song
+B. tail
+Answer:","[' A', ' B']",0
+32,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Coconuts cannot be
+A. eaten
+B. smoked
+Answer:","[' A', ' B']",1
+33,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Organisms cannot
+A. escape
+B. die
+Answer:","[' A', ' B']",0
+34,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: COBOL is not a
+A. language
+B. dialect
+Answer:","[' A', ' B']",1
+35,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Most animals do not have
+A. wings
+B. eyes
+Answer:","[' A', ' B']",0
+36,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Child does not want
+A. love
+B. marriage
+Answer:","[' A', ' B']",1
+37,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Scamper is not
+A. alive
+B. dead
+Answer:","[' A', ' B']",0
+38,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some newspapers are not
+A. free
+B. open
+Answer:","[' A', ' B']",1
+39,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sword is not made of
+A. bone
+B. steel
+Answer:","[' A', ' B']",0
+40,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Typing is not for
+A. fun
+B. survival
+Answer:","[' A', ' B']",1
+41,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Percussion instruments is not made of
+A. clay
+B. wood
+Answer:","[' A', ' B']",0
+42,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kindness is not a
+A. virtue
+B. weakness
+Answer:","[' A', ' B']",1
+43,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dependability is not a
+A. problem
+B. virtue
+Answer:","[' A', ' B']",0
+44,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some cupboards is not made of
+A. wood
+B. iron
+Answer:","[' A', ' B']",1
+45,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Synapse is not part of
+A. metabolism
+B. brain
+Answer:","[' A', ' B']",0
+46,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: An sword cannot
+A. kill
+B. fly
+Answer:","[' A', ' B']",1
+47,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A duvet cannot be made of
+A. wood
+B. cotton
+Answer:","[' A', ' B']",0
+48,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tuberculosis is not a
+A. disease
+B. disorder
+Answer:","[' A', ' B']",1
+49,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mail is not a type of
+A. convention
+B. communication
+Answer:","[' A', ' B']",0
+50,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Skating does not require
+A. coordination
+B. tire
+Answer:","[' A', ' B']",1
+51,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Percussion instruments is not made of
+A. ions
+B. wood
+Answer:","[' A', ' B']",0
+52,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Decisions do not have
+A. consequences
+B. toes
+Answer:","[' A', ' B']",1
+53,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fiddling does not require
+A. license
+B. practice
+Answer:","[' A', ' B']",0
+54,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cans cannot be
+A. recycled
+B. impressed
+Answer:","[' A', ' B']",1
+55,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Synapse is not part of
+A. nucleus
+B. brain
+Answer:","[' A', ' B']",0
+56,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes listening does not cause
+A. pain
+B. butterflies
+Answer:","[' A', ' B']",1
+57,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lizards are not small
+A. magazine
+B. animals
+Answer:","[' A', ' B']",0
+58,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rats cannot
+A. bite
+B. sadness
+Answer:","[' A', ' B']",1
+59,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dog does not have
+A. side
+B. teeth
+Answer:","[' A', ' B']",0
+60,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Desks cannot be made of
+A. wood
+B. scales
+Answer:","[' A', ' B']",1
+61,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Acting is not an
+A. parallelogram
+B. art
+Answer:","[' A', ' B']",0
+62,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Crustacean is not a type of
+A. animal
+B. pub
+Answer:","[' A', ' B']",1
+63,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cyprus is not an
+A. accessory
+B. island
+Answer:","[' A', ' B']",0
+64,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A duvet cannot be made of
+A. cotton
+B. haemoglobin
+Answer:","[' A', ' B']",1
+65,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Birds cannot
+A. barn
+B. fly
+Answer:","[' A', ' B']",0
+66,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Olives cannot be
+A. eaten
+B. slowly
+Answer:","[' A', ' B']",1
+67,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes skiing does not cause
+A. social
+B. accidents
+Answer:","[' A', ' B']",0
+68,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: TNT cannot
+A. explode
+B. art
+Answer:","[' A', ' B']",1
+69,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A banjo is not made of
+A. thoughts
+B. wood
+Answer:","[' A', ' B']",0
+70,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A bubble cannot
+A. burst
+B. flips
+Answer:","[' A', ' B']",1
+71,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A beagle is not a type of
+A. sphenisciform
+B. dog
+Answer:","[' A', ' B']",0
+72,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A beluga is not a type of
+A. whale
+B. occasion
+Answer:","[' A', ' B']",1
+73,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tuberculosis is not a
+A. jelous
+B. disease
+Answer:","[' A', ' B']",0
+74,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Child does not want
+A. love
+B. lab
+Answer:","[' A', ' B']",1
+75,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Wyoming is not a
+A. box
+B. state
+Answer:","[' A', ' B']",0
+76,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Smiling is not
+A. good
+B. fog
+Answer:","[' A', ' B']",1
+77,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Aluminium cannot be
+A. bath
+B. recycled
+Answer:","[' A', ' B']",0
+78,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Deserts cannot be
+A. dangerous
+B. moving
+Answer:","[' A', ' B']",1
+79,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Crying is not part of
+A. tradition
+B. life
+Answer:","[' A', ' B']",0
+80,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Friction does not produce
+A. heat
+B. hangover
+Answer:","[' A', ' B']",1
+81,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Scamper is not
+A. cylindrical
+B. dead
+Answer:","[' A', ' B']",0
+82,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A submarine is not made of
+A. steel
+B. pr0n
+Answer:","[' A', ' B']",1
+83,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Success does not require extra
+A. fins
+B. effort
+Answer:","[' A', ' B']",0
+84,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some stoves are not
+A. electric
+B. colorless
+Answer:","[' A', ' B']",1
+85,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Watersking cannot be
+A. barriers
+B. dangerous
+Answer:","[' A', ' B']",0
+86,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes sunburn does not cause
+A. cancer
+B. spatters
+Answer:","[' A', ' B']",1
+87,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: LSD is not a
+A. bread
+B. drug
+Answer:","[' A', ' B']",0
+88,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: House is not made of
+A. wood
+B. porcelain
+Answer:","[' A', ' B']",1
+89,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A mine cannot
+A. skate
+B. explode
+Answer:","[' A', ' B']",0
+90,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zanzibar is not an
+A. island
+B. dimensional
+Answer:","[' A', ' B']",1
+91,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes lying does not cause
+A. ankles
+B. pain
+Answer:","[' A', ' B']",0
+92,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: OCD is not a
+A. disease
+B. bond
+Answer:","[' A', ' B']",1
+93,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Disgust is not an
+A. microscopic
+B. emotion
+Answer:","[' A', ' B']",0
+94,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Information is not a
+A. commodity
+B. beauty
+Answer:","[' A', ' B']",1
+95,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Most animals do not have
+A. eyeballs
+B. eyes
+Answer:","[' A', ' B']",0
+96,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some newspapers are not
+A. free
+B. actions
+Answer:","[' A', ' B']",1
+97,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Synapse is not part of
+A. online
+B. brain
+Answer:","[' A', ' B']",0
+98,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Organisms cannot
+A. die
+B. teatro
+Answer:","[' A', ' B']",1
+99,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Study is not part of
+A. sourced
+B. education
+Answer:","[' A', ' B']",0
+100,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Information is not a
+A. commodity
+B. schwartz
+Answer:","[' A', ' B']",1
+101,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Drums is not made of
+A. leaking
+B. wood
+Answer:","[' A', ' B']",0
+102,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: IBM is not a type of
+A. computer
+B. mechanisms
+Answer:","[' A', ' B']",1
+103,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A Walkman is not a type of
+A. rangers
+B. radio
+Answer:","[' A', ' B']",0
+104,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dortmund does not have an
+A. airport
+B. wandering
+Answer:","[' A', ' B']",1
+105,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A frisbee cannot
+A. fiction
+B. fly
+Answer:","[' A', ' B']",0
+106,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Leafs are not
+A. green
+B. bakery
+Answer:","[' A', ' B']",1
+107,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Helium is not a
+A. distributor
+B. gas
+Answer:","[' A', ' B']",0
+108,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some plants are not
+A. edible
+B. disrupted
+Answer:","[' A', ' B']",1
+109,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ceramic is not made of
+A. wilkes
+B. clay
+Answer:","[' A', ' B']",0
+110,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kissing is not
+A. good
+B. finger
+Answer:","[' A', ' B']",1
+111,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Elvis is not
+A. dozens
+B. dead
+Answer:","[' A', ' B']",0
+112,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some bridges is not made of
+A. wood
+B. novelist
+Answer:","[' A', ' B']",1
+113,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes listening does not cause
+A. marxist
+B. pain
+Answer:","[' A', ' B']",0
+114,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: COBOL is not a
+A. language
+B. empire
+Answer:","[' A', ' B']",1
+115,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zanzibar is not an
+A. carlisle
+B. island
+Answer:","[' A', ' B']",0
+116,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: OCD is not a
+A. disease
+B. leading
+Answer:","[' A', ' B']",1
+117,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rats cannot
+A. bonaparte
+B. bite
+Answer:","[' A', ' B']",0
+118,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Pumpkins cannot be
+A. eaten
+B. general
+Answer:","[' A', ' B']",1
+119,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Percussion instruments is not made of
+A. temple
+B. wood
+Answer:","[' A', ' B']",0
+120,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Deserts cannot be
+A. dangerous
+B. managers
+Answer:","[' A', ' B']",1
+121,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fairies do not have
+A. staple
+B. wings
+Answer:","[' A', ' B']",0
+122,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Most animals do not have
+A. eyes
+B. sports
+Answer:","[' A', ' B']",1
+123,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Toothpick is not made of
+A. clamped
+B. plastic
+Answer:","[' A', ' B']",0
+124,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Scamper is not
+A. dead
+B. proposes
+Answer:","[' A', ' B']",1
+125,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dog does not have
+A. location
+B. teeth
+Answer:","[' A', ' B']",0
+126,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some stoves are not
+A. electric
+B. flagship
+Answer:","[' A', ' B']",1
+127,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some spiders are not
+A. reluctantly
+B. poisonous
+Answer:","[' A', ' B']",0
+128,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes dreaming does not cause
+A. nightmares
+B. ignorance
+Answer:","[' A', ' B']",1
+129,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Acting is not an
+A. marred
+B. art
+Answer:","[' A', ' B']",0
+130,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes urinating does not cause
+A. pain
+B. digest
+Answer:","[' A', ' B']",1
+131,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes tickling does not cause
+A. annexation
+B. pain
+Answer:","[' A', ' B']",0
+132,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Squash is not a
+A. sport
+B. philips
+Answer:","[' A', ' B']",1
+133,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Robots are not made of
+A. purchased
+B. metal
+Answer:","[' A', ' B']",0
+134,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Hoatzins cannot
+A. fly
+B. competition
+Answer:","[' A', ' B']",1
+135,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Love cannot
+A. ibrahim
+B. hurt
+Answer:","[' A', ' B']",0
+136,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cormorant is not a
+A. bird
+B. fitzroy
+Answer:","[' A', ' B']",1
+137,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Extortion is not
+A. criminals
+B. illegal
+Answer:","[' A', ' B']",0
+138,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Birds cannot
+A. fly
+B. ulster
+Answer:","[' A', ' B']",1
+139,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sometimes wrestling does not cause
+A. category
+B. injuries
+Answer:","[' A', ' B']",0
+140,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Skating does not require
+A. coordination
+B. gibbons
+Answer:","[' A', ' B']",1
+141,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fall is not
+A. fearing
+B. coming
+Answer:","[' A', ' B']",0
+142,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Floriade is not a
+A. festival
+B. impress
+Answer:","[' A', ' B']",1
+143,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A nutdriver is not a type of
+A. multitude
+B. tool
+Answer:","[' A', ' B']",0
+144,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bottle cannot be made of
+A. plastic
+B. perfume
+Answer:","[' A', ' B']",1
+145,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Barney Balaban was not born in
+A. germany
+B. chicago
+Answer:","[' A', ' B']",0
+146,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mark Strong was not born in
+A. london
+B. boston
+Answer:","[' A', ' B']",1
+147,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Marquis de Sade was not born in
+A. toulouse
+B. paris
+Answer:","[' A', ' B']",0
+148,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: John Frederick Maurice was not born in
+A. london
+B. paris
+Answer:","[' A', ' B']",1
+149,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ryo Ryusei was not born in
+A. taipei
+B. tokyo
+Answer:","[' A', ' B']",0
+150,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jonas Berggren does not play
+A. guitar
+B. martin
+Answer:","[' A', ' B']",1
+151,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Steve Marriott does not play
+A. bass
+B. guitar
+Answer:","[' A', ' B']",0
+152,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Beck does not play
+A. guitar
+B. cello
+Answer:","[' A', ' B']",1
+153,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Trev Thoms does not play
+A. drums
+B. guitar
+Answer:","[' A', ' B']",0
+154,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Henri Verbrugghen does not play
+A. violin
+B. clarinet
+Answer:","[' A', ' B']",1
+155,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Harare is not the capital of
+A. solomon
+B. zimbabwe
+Answer:","[' A', ' B']",0
+156,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Niamey is not the capital of
+A. niger
+B. constantine
+Answer:","[' A', ' B']",1
+157,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Beirut is not the capital of
+A. egypt
+B. lebanon
+Answer:","[' A', ' B']",0
+158,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Addis Ababa is not the capital of
+A. ethiopia
+B. bc
+Answer:","[' A', ' B']",1
+159,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Amsterdam is not the capital of
+A. mexico
+B. netherlands
+Answer:","[' A', ' B']",0
+160,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Alison Wonderland is not represented by music label
+A. emi
+B. dna
+Answer:","[' A', ' B']",1
+161,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: George Harrison is not represented by music label
+A. apple
+B. emi
+Answer:","[' A', ' B']",0
+162,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: This Is War is not represented by music label
+A. emi
+B. island
+Answer:","[' A', ' B']",1
+163,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cilla Black is not represented by music label
+A. platinum
+B. emi
+Answer:","[' A', ' B']",0
+164,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Temptations Sing Smokey is not represented by music label
+A. motown
+B. concord
+Answer:","[' A', ' B']",1
+165,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Adalbert of Mainz does not have the position of
+A. abbot
+B. archbishop
+Answer:","[' A', ' B']",0
+166,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eusebius of Caesarea does not have the position of
+A. bishop
+B. secretary
+Answer:","[' A', ' B']",1
+167,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ruricius does not have the position of
+A. consul
+B. bishop
+Answer:","[' A', ' B']",0
+168,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eusebius of Nicomedia does not have the position of
+A. bishop
+B. secretary
+Answer:","[' A', ' B']",1
+169,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eskil of Lund does not have the position of
+A. rector
+B. archbishop
+Answer:","[' A', ' B']",0
+170,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: London Bridge is not named after
+A. london
+B. charles
+Answer:","[' A', ' B']",1
+171,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eastwood Town F.C. is not named after
+A. ewing
+B. eastwood
+Answer:","[' A', ' B']",0
+172,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: USS Louisiana is not named after
+A. louisiana
+B. alabama
+Answer:","[' A', ' B']",1
+173,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Geelong Football Club is not named after
+A. hewitt
+B. geelong
+Answer:","[' A', ' B']",0
+174,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Brighton railway station is not named after
+A. brighton
+B. kemp
+Answer:","[' A', ' B']",1
+175,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Toyota Matrix is not produced by
+A. yamaha
+B. toyota
+Answer:","[' A', ' B']",0
+176,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kindle Fire is not produced by
+A. amazon
+B. pandora
+Answer:","[' A', ' B']",1
+177,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: BMW M54 is not produced by
+A. rover
+B. bmw
+Answer:","[' A', ' B']",0
+178,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fiat 1400 is not produced by
+A. fiat
+B. suzuki
+Answer:","[' A', ' B']",1
+179,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Toyota Highlander is not produced by
+A. jeep
+B. toyota
+Answer:","[' A', ' B']",0
+180,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Irina Khakamada is not
+A. russian
+B. latvian
+Answer:","[' A', ' B']",1
+181,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Augustin Barruel is not
+A. haitian
+B. french
+Answer:","[' A', ' B']",0
+182,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Alexander Butlerov is not
+A. russian
+B. hungarian
+Answer:","[' A', ' B']",1
+183,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Jules Roy is not
+A. polish
+B. french
+Answer:","[' A', ' B']",0
+184,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Franz Kafka is not
+A. german
+B. austrian
+Answer:","[' A', ' B']",1
+185,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Swedish Football Association is not a member of
+A. uefa
+B. fifa
+Answer:","[' A', ' B']",0
+186,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Algerian Football Federation is not a member of
+A. fifa
+B. uefa
+Answer:","[' A', ' B']",1
+187,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Salvadoran Football Federation is not a member of
+A. uefa
+B. fifa
+Answer:","[' A', ' B']",0
+188,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Greece is not a member of
+A. nato
+B. fiba
+Answer:","[' A', ' B']",1
+189,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Northern Mariana Islands Football Association is not a member of
+A. concacaf
+B. fifa
+Answer:","[' A', ' B']",0
+190,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sebastian Coe never worked in
+A. london
+B. china
+Answer:","[' A', ' B']",1
+191,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Joan Ruddock never worked in
+A. australia
+B. london
+Answer:","[' A', ' B']",0
+192,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Joachim Murat never worked in
+A. paris
+B. france
+Answer:","[' A', ' B']",1
+193,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Edward Bulwer-Lytton never worked in
+A. ceylon
+B. london
+Answer:","[' A', ' B']",0
+194,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Richard Brinsley Sheridan never worked in
+A. london
+B. malta
+Answer:","[' A', ' B']",1
+195,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Sarajevo Canton is not
+A. tirana
+B. sarajevo
+Answer:","[' A', ' B']",0
+196,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Tasmania is not
+A. hobart
+B. newport
+Answer:","[' A', ' B']",1
+197,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Auckland Region is not
+A. windsor
+B. auckland
+Answer:","[' A', ' B']",0
+198,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of South Korea is not
+A. seoul
+B. kim
+Answer:","[' A', ' B']",1
+199,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Maharashtra is not
+A. hassan
+B. mumbai
+Answer:","[' A', ' B']",0
+200,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: K.S.V. Roeselare is not located in
+A. belgium
+B. orange
+Answer:","[' A', ' B']",1
+201,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Prachin Buri River is not located in
+A. sumatra
+B. thailand
+Answer:","[' A', ' B']",0
+202,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Canjuers is not located in
+A. france
+B. bordeaux
+Answer:","[' A', ' B']",1
+203,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cossogno is not located in
+A. tunisia
+B. italy
+Answer:","[' A', ' B']",0
+204,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Penna Ahobilam is not located in
+A. india
+B. cyprus
+Answer:","[' A', ' B']",1
+205,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Anders Fager not used to communicate in
+A. english
+B. swedish
+Answer:","[' A', ' B']",0
+206,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Georgios Lassanis not used to communicate in
+A. greek
+B. latin
+Answer:","[' A', ' B']",1
+207,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Gerrit Paape not used to communicate in
+A. english
+B. dutch
+Answer:","[' A', ' B']",0
+208,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Michel Godard not used to communicate in
+A. french
+B. english
+Answer:","[' A', ' B']",1
+209,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Luc Moullet not used to communicate in
+A. english
+B. french
+Answer:","[' A', ' B']",0
+210,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jean-Baptiste Marie Pierre did not die in
+A. paris
+B. versailles
+Answer:","[' A', ' B']",1
+211,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Giorgio Levi Della Vida did not die in
+A. c
+B. rome
+Answer:","[' A', ' B']",0
+212,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Astley Cooper did not die in
+A. london
+B. halifax
+Answer:","[' A', ' B']",1
+213,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nino Chavchavadze did not die in
+A. belgrade
+B. tbilisi
+Answer:","[' A', ' B']",0
+214,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Samuel Johnson did not die in
+A. london
+B. oxford
+Answer:","[' A', ' B']",1
+215,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Heilmann & Littmann is in
+A. mainz
+B. munich
+Answer:","[' A', ' B']",0
+216,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Faculty of Law (University of Sarajevo) is in
+A. sarajevo
+B. milan
+Answer:","[' A', ' B']",1
+217,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Jacobs University Bremen is in
+A. germany
+B. bremen
+Answer:","[' A', ' B']",0
+218,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Racing Club de Montevideo is in
+A. montevideo
+B. pereira
+Answer:","[' A', ' B']",1
+219,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Sukhoi is in
+A. delhi
+B. moscow
+Answer:","[' A', ' B']",0
+220,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: iOS 5 is not developed by
+A. apple
+B. microsoft
+Answer:","[' A', ' B']",1
+221,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Apple Thunderbolt Display is not developed by
+A. intel
+B. apple
+Answer:","[' A', ' B']",0
+222,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mitsubishi G4M is not developed by
+A. mitsubishi
+B. vinci
+Answer:","[' A', ' B']",1
+223,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Time Machine (macOS) is not developed by
+A. microsoft
+B. apple
+Answer:","[' A', ' B']",0
+224,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: IBM 4690 OS is not developed by
+A. ibm
+B. hp
+Answer:","[' A', ' B']",1
+225,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Uganda is not
+A. norwegian
+B. english
+Answer:","[' A', ' B']",0
+226,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Russia is not
+A. russian
+B. swedish
+Answer:","[' A', ' B']",1
+227,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Lesotho is not
+A. chinese
+B. english
+Answer:","[' A', ' B']",0
+228,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Virginia is not
+A. english
+B. scots
+Answer:","[' A', ' B']",1
+229,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Canton of Geneva is not
+A. switzerland
+B. french
+Answer:","[' A', ' B']",0
+230,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: woodburytype does not work in the field of
+A. photography
+B. art
+Answer:","[' A', ' B']",1
+231,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Georg Ernst Stahl does not work in the field of
+A. economics
+B. chemistry
+Answer:","[' A', ' B']",0
+232,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: art school does not work in the field of
+A. art
+B. painting
+Answer:","[' A', ' B']",1
+233,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Hermann von Helmholtz does not work in the field of
+A. music
+B. physics
+Answer:","[' A', ' B']",0
+234,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jonathan Haidt does not work in the field of
+A. psychology
+B. music
+Answer:","[' A', ' B']",1
+235,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Thulladha Manamum Thullum is not
+A. urdu
+B. tamil
+Answer:","[' A', ' B']",0
+236,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of La Commune is not
+A. french
+B. chinese
+Answer:","[' A', ' B']",1
+237,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Sainikudu is not
+A. hindu
+B. telugu
+Answer:","[' A', ' B']",0
+238,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Uutisvuoto is not
+A. finnish
+B. tamil
+Answer:","[' A', ' B']",1
+239,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of I Am My Own Wife is not
+A. norwegian
+B. english
+Answer:","[' A', ' B']",0
+240,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Melbourne International Comedy Festival is not located in
+A. melbourne
+B. heidelberg
+Answer:","[' A', ' B']",1
+241,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ashland Independent Film Festival is not located in
+A. kentucky
+B. ashland
+Answer:","[' A', ' B']",0
+242,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Glastonbury Lake Village is not located in
+A. somerset
+B. gloucester
+Answer:","[' A', ' B']",1
+243,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Melbourne International Film Festival is not located in
+A. april
+B. melbourne
+Answer:","[' A', ' B']",0
+244,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kolkata Book Fair is not located in
+A. kolkata
+B. chinatown
+Answer:","[' A', ' B']",1
+245,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: James Ross Island group is not located in
+A. iceland
+B. antarctica
+Answer:","[' A', ' B']",0
+246,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Portugal is not located in
+A. europe
+B. australia
+Answer:","[' A', ' B']",1
+247,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Borg Massif is not located in
+A. afghanistan
+B. antarctica
+Answer:","[' A', ' B']",0
+248,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Queen Maud Land is not located in
+A. antarctica
+B. georgia
+Answer:","[' A', ' B']",1
+249,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Federated States of Micronesia is not located in
+A. mexico
+B. oceania
+Answer:","[' A', ' B']",0
+250,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Samsun Province is not located in
+A. turkey
+B. herzegovina
+Answer:","[' A', ' B']",1
+251,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sydney Harbour Bridge is not located in
+A. brisbane
+B. sydney
+Answer:","[' A', ' B']",0
+252,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Saskatchewan Highway 11 is not located in
+A. saskatchewan
+B. douglas
+Answer:","[' A', ' B']",1
+253,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: El Oued Province is not located in
+A. mali
+B. algeria
+Answer:","[' A', ' B']",0
+254,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Gramercy Park Hotel is not located in
+A. manhattan
+B. edinburgh
+Answer:","[' A', ' B']",1
+255,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: ferrous sulfate does not consist of
+A. quartz
+B. iron
+Answer:","[' A', ' B']",0
+256,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: chicken nugget does not consist of
+A. chicken
+B. beef
+Answer:","[' A', ' B']",1
+257,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nordic countries does not consist of
+A. scandinavia
+B. finland
+Answer:","[' A', ' B']",0
+258,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: steel does not consist of
+A. iron
+B. aluminum
+Answer:","[' A', ' B']",1
+259,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: tin(II) fluoride does not consist of
+A. aluminium
+B. tin
+Answer:","[' A', ' B']",0
+260,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: SegaSoft is not owned by
+A. sega
+B. samsung
+Answer:","[' A', ' B']",1
+261,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: BBC Films is not owned by
+A. amc
+B. bbc
+Answer:","[' A', ' B']",0
+262,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Boeing Commercial Airplanes is not owned by
+A. boeing
+B. gm
+Answer:","[' A', ' B']",1
+263,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Azerbaijan Tower is not owned by
+A. alfa
+B. azerbaijan
+Answer:","[' A', ' B']",0
+264,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Yahoo Mail is not owned by
+A. yahoo
+B. bt
+Answer:","[' A', ' B']",1
+265,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Uyu River is not a
+A. tributary
+B. river
+Answer:","[' A', ' B']",0
+266,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Panchalankurichi is not a
+A. village
+B. town
+Answer:","[' A', ' B']",1
+267,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sojitra is not a
+A. town
+B. village
+Answer:","[' A', ' B']",0
+268,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Green Spring Plantation is not a
+A. plantation
+B. farm
+Answer:","[' A', ' B']",1
+269,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bekesbourne is not a
+A. hamlet
+B. village
+Answer:","[' A', ' B']",0
+270,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Belarus does not maintain diplomatic relations with
+A. russia
+B. turkey
+Answer:","[' A', ' B']",1
+271,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Paraguay does not maintain diplomatic relations with
+A. bolivia
+B. brazil
+Answer:","[' A', ' B']",0
+272,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jordan does not maintain diplomatic relations with
+A. israel
+B. iran
+Answer:","[' A', ' B']",1
+273,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nauru does not maintain diplomatic relations with
+A. fiji
+B. australia
+Answer:","[' A', ' B']",0
+274,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Malaysia does not maintain diplomatic relations with
+A. indonesia
+B. china
+Answer:","[' A', ' B']",1
+275,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Deoxyribonucleotide is not part of
+A. metabolism
+B. dna
+Answer:","[' A', ' B']",0
+276,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: visual sociology is not part of
+A. sociology
+B. research
+Answer:","[' A', ' B']",1
+277,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: recorded history is not part of
+A. photography
+B. history
+Answer:","[' A', ' B']",0
+278,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tate Britain is not part of
+A. tate
+B. arte
+Answer:","[' A', ' B']",1
+279,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: iOS 5 is not part of
+A. development
+B. ios
+Answer:","[' A', ' B']",0
+280,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zeinab Badawi does not work for
+A. bbc
+B. volvo
+Answer:","[' A', ' B']",1
+281,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Steve Ballmer does not work for
+A. ibm
+B. microsoft
+Answer:","[' A', ' B']",0
+282,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bill Gates does not work for
+A. microsoft
+B. ibm
+Answer:","[' A', ' B']",1
+283,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: UNESCO Goodwill Ambassador does not work for
+A. charity
+B. unesco
+Answer:","[' A', ' B']",0
+284,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tim Paterson does not work for
+A. microsoft
+B. ibm
+Answer:","[' A', ' B']",1
+285,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Frankfurt School was not founded in
+A. poland
+B. frankfurt
+Answer:","[' A', ' B']",0
+286,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Big Pink was not founded in
+A. london
+B. italy
+Answer:","[' A', ' B']",1
+287,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Black Box Recorder was not founded in
+A. california
+B. london
+Answer:","[' A', ' B']",0
+288,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Xiaomi was not founded in
+A. beijing
+B. italy
+Answer:","[' A', ' B']",1
+289,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Theatre of Hate was not founded in
+A. oslo
+B. london
+Answer:","[' A', ' B']",0
+290,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Don Giovanni was not written in
+A. italian
+B. london
+Answer:","[' A', ' B']",1
+291,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Internet Archive was not written in
+A. polish
+B. english
+Answer:","[' A', ' B']",0
+292,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: RT America was not written in
+A. english
+B. canada
+Answer:","[' A', ' B']",1
+293,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Optimistique-moi was not written in
+A. basque
+B. french
+Answer:","[' A', ' B']",0
+294,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Adventures of Tom Sawyer was not written in
+A. english
+B. ireland
+Answer:","[' A', ' B']",1
+295,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Makati does not share border with
+A. cebu
+B. manila
+Answer:","[' A', ' B']",0
+296,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Uttarakhand does not share border with
+A. haryana
+B. bangladesh
+Answer:","[' A', ' B']",1
+297,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mississippi does not share border with
+A. georgia
+B. louisiana
+Answer:","[' A', ' B']",0
+298,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mizoram does not share border with
+A. assam
+B. india
+Answer:","[' A', ' B']",1
+299,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Netherlands does not share border with
+A. france
+B. belgium
+Answer:","[' A', ' B']",0
+300,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sreeram was not created in
+A. india
+B. kolkata
+Answer:","[' A', ' B']",1
+301,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: reggae was not created in
+A. haiti
+B. jamaica
+Answer:","[' A', ' B']",0
+302,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Brain Powerd was not created in
+A. japan
+B. spain
+Answer:","[' A', ' B']",1
+303,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sonic X was not created in
+A. march
+B. japan
+Answer:","[' A', ' B']",0
+304,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Senki Zesshō Symphogear was not created in
+A. japan
+B. canada
+Answer:","[' A', ' B']",1
+305,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Crime & Punishment was not originally aired on
+A. cbc
+B. nbc
+Answer:","[' A', ' B']",0
+306,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The NBC Monday Movie was not originally aired on
+A. nbc
+B. saturdays
+Answer:","[' A', ' B']",1
+307,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Wallykazam! was not originally aired on
+A. cbc
+B. nickelodeon
+Answer:","[' A', ' B']",0
+308,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Law Firm was not originally aired on
+A. nbc
+B. cbc
+Answer:","[' A', ' B']",1
+309,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Yo Gabba Gabba! was not originally aired on
+A. itv
+B. nickelodeon
+Answer:","[' A', ' B']",0
+310,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: ground beef is not a subclass of
+A. beef
+B. pigs
+Answer:","[' A', ' B']",1
+311,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: manual transmission is not a subclass of
+A. auto
+B. transmission
+Answer:","[' A', ' B']",0
+312,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Australian English is not a subclass of
+A. english
+B. swedish
+Answer:","[' A', ' B']",1
+313,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Radon measure is not a subclass of
+A. time
+B. measure
+Answer:","[' A', ' B']",0
+314,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: disruptive coloration is not a subclass of
+A. camouflage
+B. insects
+Answer:","[' A', ' B']",1
+315,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Canadian Human Rights Act is not a legal term in
+A. quebec
+B. canada
+Answer:","[' A', ' B']",0
+316,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Vice President of Nigeria is not a legal term in
+A. nigeria
+B. law
+Answer:","[' A', ' B']",1
+317,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ohio House of Representatives is not a legal term in
+A. delaware
+B. ohio
+Answer:","[' A', ' B']",0
+318,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: President of Ireland is not a legal term in
+A. ireland
+B. irish
+Answer:","[' A', ' B']",1
+319,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Idaho Senate is not a legal term in
+A. english
+B. idaho
+Answer:","[' A', ' B']",0
+320,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jerusalem Day is not named after
+A. jerusalem
+B. brunei
+Answer:","[' A', ' B']",1
+321,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Meiji Restoration is not named after
+A. loire
+B. meiji
+Answer:","[' A', ' B']",0
+322,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bangor International Airport is not named after
+A. bangor
+B. france
+Answer:","[' A', ' B']",1
+323,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Blackburn railway station is not named after
+A. oxford
+B. blackburn
+Answer:","[' A', ' B']",0
+324,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Edinburgh Airport is not named after
+A. edinburgh
+B. bourne
+Answer:","[' A', ' B']",1
+325,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nissan NPT-90 is not produced by
+A. audi
+B. nissan
+Answer:","[' A', ' B']",0
+326,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dodge Dynasty is not produced by
+A. dodge
+B. sears
+Answer:","[' A', ' B']",1
+327,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: BMW E32 is not produced by
+A. bentley
+B. bmw
+Answer:","[' A', ' B']",0
+328,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nissan R391 is not produced by
+A. nissan
+B. fairchild
+Answer:","[' A', ' B']",1
+329,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: iPad 4 is not produced by
+A. porsche
+B. apple
+Answer:","[' A', ' B']",0
+330,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Saint Domnius does not have the position of
+A. bishop
+B. rabbi
+Answer:","[' A', ' B']",1
+331,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ildephonsus of Toledo does not have the position of
+A. bishop of vic
+B. archbishop
+Answer:","[' A', ' B']",0
+332,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Vigilius of Trent does not have the position of
+A. bishop
+B. shah
+Answer:","[' A', ' B']",1
+333,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eusebius of Vercelli does not have the position of
+A. archbishop of canterbury
+B. bishop
+Answer:","[' A', ' B']",0
+334,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Heribert of Cologne does not have the position of
+A. archbishop
+B. mayor
+Answer:","[' A', ' B']",1
+335,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Eugene Kaspersky is not
+A. korean
+B. russian
+Answer:","[' A', ' B']",0
+336,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Jean-Paul Sartre is not
+A. french
+B. greek
+Answer:","[' A', ' B']",1
+337,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Ginette Garcin is not
+A. hebrew
+B. french
+Answer:","[' A', ' B']",0
+338,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Alphonse Daudet is not
+A. french
+B. armenian
+Answer:","[' A', ' B']",1
+339,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Vaikom Muhammad Basheer is not
+A. estonian
+B. malayalam
+Answer:","[' A', ' B']",0
+340,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Haitian Football Federation is not a member of
+A. fifa
+B. world tourism organization
+Answer:","[' A', ' B']",1
+341,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Denmark is not a member of
+A. fun
+B. nato
+Answer:","[' A', ' B']",0
+342,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Football Association of Zambia is not a member of
+A. fifa
+B. efta court
+Answer:","[' A', ' B']",1
+343,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Canadian Soccer Association is not a member of
+A. international criminal court
+B. fifa
+Answer:","[' A', ' B']",0
+344,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Afghanistan Football Federation is not a member of
+A. fifa
+B. weimar triangle
+Answer:","[' A', ' B']",1
+345,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Vice-Chancellor of Austria is not a legal term in
+A. montana
+B. austria
+Answer:","[' A', ' B']",0
+346,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: flag of Turkey is not a legal term in
+A. turkey
+B. maharashtra
+Answer:","[' A', ' B']",1
+347,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Legislative Assembly of Manitoba is not a legal term in
+A. nicaragua
+B. manitoba
+Answer:","[' A', ' B']",0
+348,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: flag of Texas is not a legal term in
+A. texas
+B. hungary
+Answer:","[' A', ' B']",1
+349,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Federal Chancellery of Austria is not a legal term in
+A. ontario
+B. austria
+Answer:","[' A', ' B']",0
+350,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: John of Genoa was not born in
+A. genoa
+B. hyderabad
+Answer:","[' A', ' B']",1
+351,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Riona Hazuki was not born in
+A. florida
+B. tokyo
+Answer:","[' A', ' B']",0
+352,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Hiroshi Tsuchida was not born in
+A. tokyo
+B. lafayette
+Answer:","[' A', ' B']",1
+353,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ramil Guliyev was not born in
+A. dundee
+B. baku
+Answer:","[' A', ' B']",0
+354,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Joseph Clay was not born in
+A. philadelphia
+B. ponce
+Answer:","[' A', ' B']",1
+355,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bing Crosby is not represented by music label
+A. swan
+B. decca
+Answer:","[' A', ' B']",0
+356,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eva Simons is not represented by music label
+A. emi
+B. barclay
+Answer:","[' A', ' B']",1
+357,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eddie Kendricks is not represented by music label
+A. federal
+B. motown
+Answer:","[' A', ' B']",0
+358,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Judy Garland is not represented by music label
+A. decca
+B. federal
+Answer:","[' A', ' B']",1
+359,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Virtual XI is not represented by music label
+A. federal
+B. emi
+Answer:","[' A', ' B']",0
+360,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Scottish Socialist Party is in
+A. glasgow
+B. helsinki
+Answer:","[' A', ' B']",1
+361,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Historic New England is in
+A. dresden
+B. boston
+Answer:","[' A', ' B']",0
+362,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of TransGaming Inc. is in
+A. toronto
+B. cambridge
+Answer:","[' A', ' B']",1
+363,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Ensco plc is in
+A. lausanne
+B. london
+Answer:","[' A', ' B']",0
+364,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Progressive Conservative Association of Alberta is in
+A. edmonton
+B. ireland
+Answer:","[' A', ' B']",1
+365,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: iOS 6 is not developed by
+A. symbian ltd.
+B. apple
+Answer:","[' A', ' B']",0
+366,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Google Reader is not developed by
+A. google
+B. samsung
+Answer:","[' A', ' B']",1
+367,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: sRGB is not developed by
+A. gibson
+B. microsoft
+Answer:","[' A', ' B']",0
+368,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fantasy Zone is not developed by
+A. sega
+B. ibm
+Answer:","[' A', ' B']",1
+369,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Microsoft Office 2003 is not developed by
+A. nato
+B. microsoft
+Answer:","[' A', ' B']",0
+370,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Galen does not work in the field of
+A. medicine
+B. decoration
+Answer:","[' A', ' B']",1
+371,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Johann Christian Reil does not work in the field of
+A. miniature
+B. medicine
+Answer:","[' A', ' B']",0
+372,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Anti-Oedipus does not work in the field of
+A. philosophy
+B. algebra
+Answer:","[' A', ' B']",1
+373,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: suicide attack does not work in the field of
+A. wikipedia
+B. terrorism
+Answer:","[' A', ' B']",0
+374,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: National Film Board of Canada does not work in the field of
+A. animation
+B. art
+Answer:","[' A', ' B']",1
+375,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of The Bitch is not
+A. breton
+B. english
+Answer:","[' A', ' B']",0
+376,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of The Jeffersons is not
+A. english
+B. thai
+Answer:","[' A', ' B']",1
+377,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of The Cheat is not
+A. punjabi
+B. english
+Answer:","[' A', ' B']",0
+378,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Les diamants de la couronne is not
+A. french
+B. sanskrit
+Answer:","[' A', ' B']",1
+379,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Aucassin and Nicolette is not
+A. icelandic
+B. french
+Answer:","[' A', ' B']",0
+380,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Udmurt Republic is not
+A. russian
+B. dutch
+Answer:","[' A', ' B']",1
+381,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Bern is not
+A. bulgarian
+B. german
+Answer:","[' A', ' B']",0
+382,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Kurikka is not
+A. finnish
+B. urdu
+Answer:","[' A', ' B']",1
+383,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Saint Pierre and Miquelon is not
+A. somali
+B. french
+Answer:","[' A', ' B']",0
+384,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Sundbyberg Municipality is not
+A. swedish
+B. turkish
+Answer:","[' A', ' B']",1
+385,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Paul Meurice never worked in
+A. basel
+B. paris
+Answer:","[' A', ' B']",0
+386,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tony Benn never worked in
+A. london
+B. marquesas islands
+Answer:","[' A', ' B']",1
+387,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Moses Shapira never worked in
+A. indianapolis
+B. jerusalem
+Answer:","[' A', ' B']",0
+388,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Alexander William Kinglake never worked in
+A. london
+B. portugal
+Answer:","[' A', ' B']",1
+389,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Paul Deschanel never worked in
+A. kiev
+B. paris
+Answer:","[' A', ' B']",0
+390,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Charles Cowper did not die in
+A. london
+B. birmingham
+Answer:","[' A', ' B']",1
+391,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Clement I did not die in
+A. hartford
+B. rome
+Answer:","[' A', ' B']",0
+392,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Marc Sangnier did not die in
+A. paris
+B. edinburgh
+Answer:","[' A', ' B']",1
+393,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: John Selden did not die in
+A. manila
+B. london
+Answer:","[' A', ' B']",0
+394,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Anahit Tsitsikian did not die in
+A. yerevan
+B. leicester
+Answer:","[' A', ' B']",1
+395,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rottendorf is not located in
+A. croatia
+B. germany
+Answer:","[' A', ' B']",0
+396,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Pandoh Dam is not located in
+A. india
+B. azerbaijan
+Answer:","[' A', ' B']",1
+397,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sierra de la Culebra is not located in
+A. tunisia
+B. spain
+Answer:","[' A', ' B']",0
+398,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Huachocolpa District is not located in
+A. peru
+B. lithuania
+Answer:","[' A', ' B']",1
+399,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Skole Raion is not located in
+A. armenia
+B. ukraine
+Answer:","[' A', ' B']",0
+400,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Tripolitania is not
+A. tripoli
+B. manila
+Answer:","[' A', ' B']",1
+401,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Ankara Province is not
+A. tirana
+B. ankara
+Answer:","[' A', ' B']",0
+402,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Second Spanish Republic is not
+A. madrid
+B. vienna
+Answer:","[' A', ' B']",1
+403,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Lviv Oblast is not
+A. scarborough
+B. lviv
+Answer:","[' A', ' B']",0
+404,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Second Polish Republic is not
+A. warsaw
+B. sarajevo
+Answer:","[' A', ' B']",1
+405,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lebanon does not maintain diplomatic relations with
+A. iraq
+B. syria
+Answer:","[' A', ' B']",0
+406,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Israel does not maintain diplomatic relations with
+A. lebanon
+B. bhutan
+Answer:","[' A', ' B']",1
+407,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: New Zealand does not maintain diplomatic relations with
+A. belarus
+B. australia
+Answer:","[' A', ' B']",0
+408,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nauru does not maintain diplomatic relations with
+A. australia
+B. oman
+Answer:","[' A', ' B']",1
+409,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Samoa does not maintain diplomatic relations with
+A. venezuela
+B. australia
+Answer:","[' A', ' B']",0
+410,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Diocese of Tunsberg is not a
+A. diocese
+B. city with powiat rights
+Answer:","[' A', ' B']",1
+411,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Morice River is not a
+A. muscle
+B. river
+Answer:","[' A', ' B']",0
+412,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Banatska Palanka is not a
+A. village
+B. science
+Answer:","[' A', ' B']",1
+413,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Devarapalle, West Godavari is not a
+A. seminary
+B. village
+Answer:","[' A', ' B']",0
+414,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Devonshire Regiment is not a
+A. regiment
+B. biopharmaceutical
+Answer:","[' A', ' B']",1
+415,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Stockholm Bloodbath is not located in
+A. manila
+B. stockholm
+Answer:","[' A', ' B']",0
+416,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Virtus Pallacanestro Bologna is not located in
+A. bologna
+B. internet
+Answer:","[' A', ' B']",1
+417,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: 2011 Libyan Civil War is not located in
+A. bristol
+B. libya
+Answer:","[' A', ' B']",0
+418,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: 2004 Istanbul summit is not located in
+A. istanbul
+B. bolivia
+Answer:","[' A', ' B']",1
+419,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Great Plague of London is not located in
+A. bangalore
+B. london
+Answer:","[' A', ' B']",0
+420,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rafael Jofresa not used to communicate in
+A. spanish
+B. american english
+Answer:","[' A', ' B']",1
+421,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ricardo Bofill not used to communicate in
+A. tamil
+B. spanish
+Answer:","[' A', ' B']",0
+422,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sharof Rashidov not used to communicate in
+A. russian
+B. french
+Answer:","[' A', ' B']",1
+423,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Roger Quilter not used to communicate in
+A. russian
+B. english
+Answer:","[' A', ' B']",0
+424,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rajesh Khanna not used to communicate in
+A. hindi
+B. yiddish
+Answer:","[' A', ' B']",1
+425,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Wellington Phoenix FC is not located in
+A. greenland
+B. wellington
+Answer:","[' A', ' B']",0
+426,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bern Theatre is not located in
+A. bern
+B. helsinki
+Answer:","[' A', ' B']",1
+427,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: University of Paris III: Sorbonne Nouvelle is not located in
+A. hungary
+B. paris
+Answer:","[' A', ' B']",0
+428,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lake Conroe is not located in
+A. texas
+B. monmouth
+Answer:","[' A', ' B']",1
+429,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Film and Television Institute of India is not located in
+A. haryana
+B. pune
+Answer:","[' A', ' B']",0
+430,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Evans Peninsula is not located in
+A. antarctica
+B. americas
+Answer:","[' A', ' B']",1
+431,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Astrolabe Glacier is not located in
+A. americas
+B. antarctica
+Answer:","[' A', ' B']",0
+432,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Teres Ridge is not located in
+A. antarctica
+B. europe
+Answer:","[' A', ' B']",1
+433,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ruppert Coast is not located in
+A. oceania
+B. antarctica
+Answer:","[' A', ' B']",0
+434,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Odbert Island is not located in
+A. antarctica
+B. oceania
+Answer:","[' A', ' B']",1
+435,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: zinc hydroxide does not consist of
+A. cereal
+B. zinc
+Answer:","[' A', ' B']",0
+436,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: tin(IV) oxide does not consist of
+A. tin
+B. spain
+Answer:","[' A', ' B']",1
+437,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: fermented milk product does not consist of
+A. syntax
+B. milk
+Answer:","[' A', ' B']",0
+438,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: zinc bromide does not consist of
+A. zinc
+B. genoa
+Answer:","[' A', ' B']",1
+439,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: adenine does not consist of
+A. chocolate
+B. nitrogen
+Answer:","[' A', ' B']",0
+440,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: BBC Worldwide is not owned by
+A. bbc
+B. hamas
+Answer:","[' A', ' B']",1
+441,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Google Keep is not owned by
+A. mitchell
+B. google
+Answer:","[' A', ' B']",0
+442,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Pennsylvania Station is not owned by
+A. amtrak
+B. qatar
+Answer:","[' A', ' B']",1
+443,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Durham Bulls Athletic Park is not owned by
+A. australia
+B. durham
+Answer:","[' A', ' B']",0
+444,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Yahoo Games is not owned by
+A. yahoo
+B. johannesburg
+Answer:","[' A', ' B']",1
+445,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Transboundary river is not a subclass of
+A. monastery
+B. river
+Answer:","[' A', ' B']",0
+446,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: sphenoid bone is not a subclass of
+A. bone
+B. alloy
+Answer:","[' A', ' B']",1
+447,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Middle Irish is not a subclass of
+A. anime
+B. irish
+Answer:","[' A', ' B']",0
+448,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Park golf is not a subclass of
+A. golf
+B. rna
+Answer:","[' A', ' B']",1
+449,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: G and H-class destroyer is not a subclass of
+A. triangle
+B. destroyer
+Answer:","[' A', ' B']",0
+450,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: North Macedonia does not share border with
+A. greece
+B. virginia
+Answer:","[' A', ' B']",1
+451,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mauritania does not share border with
+A. new york
+B. mali
+Answer:","[' A', ' B']",0
+452,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Guyana does not share border with
+A. venezuela
+B. yukon
+Answer:","[' A', ' B']",1
+453,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Liechtenstein does not share border with
+A. sant boi de llobregat
+B. switzerland
+Answer:","[' A', ' B']",0
+454,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Gambia does not share border with
+A. senegal
+B. city of bristol
+Answer:","[' A', ' B']",1
+455,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bern is not the capital of
+A. ukraine
+B. switzerland
+Answer:","[' A', ' B']",0
+456,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Podgorica is not the capital of
+A. montenegro
+B. madagascar
+Answer:","[' A', ' B']",1
+457,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Athens is not the capital of
+A. yemen
+B. greece
+Answer:","[' A', ' B']",0
+458,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nuuk is not the capital of
+A. greenland
+B. lakes
+Answer:","[' A', ' B']",1
+459,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Annapolis is not the capital of
+A. yunnan
+B. maryland
+Answer:","[' A', ' B']",0
+460,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: political philosophy is not part of
+A. philosophy
+B. sl
+Answer:","[' A', ' B']",1
+461,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: financial economics is not part of
+A. organism
+B. economics
+Answer:","[' A', ' B']",0
+462,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tate Liverpool is not part of
+A. tate
+B. sex
+Answer:","[' A', ' B']",1
+463,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dianetics is not part of
+A. norwegian
+B. scientology
+Answer:","[' A', ' B']",0
+464,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Highlands of Iceland is not part of
+A. iceland
+B. boeing
+Answer:","[' A', ' B']",1
+465,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Louisiana Voodoo was not founded in
+A. nagoya
+B. louisiana
+Answer:","[' A', ' B']",0
+466,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Pretty Things was not founded in
+A. london
+B. glasgow
+Answer:","[' A', ' B']",1
+467,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Big Pink was not founded in
+A. brighton
+B. london
+Answer:","[' A', ' B']",0
+468,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Transport for London was not founded in
+A. london
+B. tehran
+Answer:","[' A', ' B']",1
+469,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sound Transit was not founded in
+A. dresden
+B. seattle
+Answer:","[' A', ' B']",0
+470,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dan Sealey does not play
+A. guitar
+B. pipe organ
+Answer:","[' A', ' B']",1
+471,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lev Naumov does not play
+A. harp
+B. piano
+Answer:","[' A', ' B']",0
+472,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Edin Karamazov does not play
+A. guitar
+B. saxophone
+Answer:","[' A', ' B']",1
+473,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Pete Lesperance does not play
+A. trombone
+B. guitar
+Answer:","[' A', ' B']",0
+474,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jimi Hendrix does not play
+A. guitar
+B. flute
+Answer:","[' A', ' B']",1
+475,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bill Gates does not work for
+A. unesco
+B. microsoft
+Answer:","[' A', ' B']",0
+476,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: UNESCO Goodwill Ambassador does not work for
+A. unesco
+B. nintendo
+Answer:","[' A', ' B']",1
+477,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zeinab Badawi does not work for
+A. nintendo
+B. bbc
+Answer:","[' A', ' B']",0
+478,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Esko Aho does not work for
+A. nokia
+B. nintendo
+Answer:","[' A', ' B']",1
+479,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tim Paterson does not work for
+A. fiat
+B. microsoft
+Answer:","[' A', ' B']",0
+480,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Waterzooi was not created in
+A. belgium
+B. russia
+Answer:","[' A', ' B']",1
+481,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Wz. 35 anti-tank rifle was not created in
+A. philippines
+B. poland
+Answer:","[' A', ' B']",0
+482,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ayyam El Sadat was not created in
+A. egypt
+B. malaysia
+Answer:","[' A', ' B']",1
+483,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Olvi was not created in
+A. cuba
+B. finland
+Answer:","[' A', ' B']",0
+484,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Animator.ru was not created in
+A. russia
+B. argentina
+Answer:","[' A', ' B']",1
+485,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Mwng was not written in
+A. czech
+B. welsh
+Answer:","[' A', ' B']",0
+486,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rock Sound was not written in
+A. english
+B. polish
+Answer:","[' A', ' B']",1
+487,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: La Cucaracha was not written in
+A. turkish
+B. spanish
+Answer:","[' A', ' B']",0
+488,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Silent Alarm was not written in
+A. english
+B. finnish
+Answer:","[' A', ' B']",1
+489,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: New Musical Express was not written in
+A. tamil
+B. english
+Answer:","[' A', ' B']",0
+490,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Hull High was not originally aired on
+A. nbc
+B. argentina
+Answer:","[' A', ' B']",1
+491,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Crime & Punishment was not originally aired on
+A. history
+B. nbc
+Answer:","[' A', ' B']",0
+492,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Long Bright Dark was not originally aired on
+A. hbo
+B. bbc
+Answer:","[' A', ' B']",1
+493,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sam & Cat was not originally aired on
+A. bbc
+B. nickelodeon
+Answer:","[' A', ' B']",0
+494,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Betty Hutton Show was not originally aired on
+A. cbs
+B. youtube
+Answer:","[' A', ' B']",1
+495,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eusebius of Nicomedia does not have the position of
+A. politics
+B. bishop
+Answer:","[' A', ' B']",0
+496,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ibrahim Pasha of Egypt does not have the position of
+A. governor
+B. relativity
+Answer:","[' A', ' B']",1
+497,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Herculanus of Perugia does not have the position of
+A. shaved
+B. bishop
+Answer:","[' A', ' B']",0
+498,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: William of Hirsau does not have the position of
+A. abbot
+B. republic
+Answer:","[' A', ' B']",1
+499,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lupus of Troyes does not have the position of
+A. remotely
+B. bishop
+Answer:","[' A', ' B']",0
+500,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: KC-767 is not developed by
+A. boeing
+B. disciplines
+Answer:","[' A', ' B']",1
+501,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Intel MCS-51 is not developed by
+A. whisper
+B. intel
+Answer:","[' A', ' B']",0
+502,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: WinDbg is not developed by
+A. microsoft
+B. poorly
+Answer:","[' A', ' B']",1
+503,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: B-29 Superfortress is not developed by
+A. concussion
+B. boeing
+Answer:","[' A', ' B']",0
+504,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Microsoft Office Live is not developed by
+A. microsoft
+B. villains
+Answer:","[' A', ' B']",1
+505,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: anatomical location does not work in the field of
+A. statutes
+B. anatomy
+Answer:","[' A', ' B']",0
+506,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: history journal does not work in the field of
+A. history
+B. incorporated
+Answer:","[' A', ' B']",1
+507,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Abraham bar Hiyya does not work in the field of
+A. diploma
+B. astronomy
+Answer:","[' A', ' B']",0
+508,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Paul Cameron does not work in the field of
+A. psychology
+B. landlord
+Answer:","[' A', ' B']",1
+509,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Edward B. Titchener does not work in the field of
+A. testimony
+B. psychology
+Answer:","[' A', ' B']",0
+510,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Virtual XI is not represented by music label
+A. emi
+B. elders
+Answer:","[' A', ' B']",1
+511,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Judy Garland is not represented by music label
+A. surfaces
+B. decca
+Answer:","[' A', ' B']",0
+512,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ella Fitzgerald is not represented by music label
+A. decca
+B. sincerity
+Answer:","[' A', ' B']",1
+513,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Maria Callas is not represented by music label
+A. perpendicular
+B. emi
+Answer:","[' A', ' B']",0
+514,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Midge Ure is not represented by music label
+A. emi
+B. lyricist
+Answer:","[' A', ' B']",1
+515,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Towers of London was not founded in
+A. rescued
+B. london
+Answer:","[' A', ' B']",0
+516,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Coldplay was not founded in
+A. london
+B. archdiocese
+Answer:","[' A', ' B']",1
+517,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Xiaomi was not founded in
+A. temeraire
+B. beijing
+Answer:","[' A', ' B']",0
+518,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: London Stock Exchange was not founded in
+A. london
+B. achievement
+Answer:","[' A', ' B']",1
+519,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: ST Aerospace was not founded in
+A. certainly
+B. singapore
+Answer:","[' A', ' B']",0
+520,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Patrice Leconte is not
+A. french
+B. faction
+Answer:","[' A', ' B']",1
+521,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Louis Barthou is not
+A. mortar
+B. french
+Answer:","[' A', ' B']",0
+522,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Jean-Louis Barrault is not
+A. french
+B. discussed
+Answer:","[' A', ' B']",1
+523,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of William Howitt is not
+A. mixing
+B. english
+Answer:","[' A', ' B']",0
+524,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The native language of Zachary Taylor is not
+A. english
+B. sincerity
+Answer:","[' A', ' B']",1
+525,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Djibouti does not share border with
+A. recordings
+B. ethiopia
+Answer:","[' A', ' B']",0
+526,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Romania does not share border with
+A. ukraine
+B. unincorporated
+Answer:","[' A', ' B']",1
+527,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Gibraltar does not share border with
+A. starting
+B. spain
+Answer:","[' A', ' B']",0
+528,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nunavut does not share border with
+A. quebec
+B. beginnings
+Answer:","[' A', ' B']",1
+529,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Campagnano di Roma does not share border with
+A. collection
+B. rome
+Answer:","[' A', ' B']",0
+530,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Australia does not maintain diplomatic relations with
+A. laos
+B. dripping
+Answer:","[' A', ' B']",1
+531,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Italy does not maintain diplomatic relations with
+A. insights
+B. lebanon
+Answer:","[' A', ' B']",0
+532,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Central African Republic does not maintain diplomatic relations with
+A. cameroon
+B. walled
+Answer:","[' A', ' B']",1
+533,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Philippines does not maintain diplomatic relations with
+A. comment
+B. indonesia
+Answer:","[' A', ' B']",0
+534,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: New Zealand does not maintain diplomatic relations with
+A. australia
+B. sidewalk
+Answer:","[' A', ' B']",1
+535,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tanya Savicheva not used to communicate in
+A. thomson
+B. russian
+Answer:","[' A', ' B']",0
+536,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Michel Duchaussoy not used to communicate in
+A. french
+B. wolverhampton
+Answer:","[' A', ' B']",1
+537,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Louis Riel not used to communicate in
+A. wetland
+B. french
+Answer:","[' A', ' B']",0
+538,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Abraham Fraenkel not used to communicate in
+A. hebrew
+B. september
+Answer:","[' A', ' B']",1
+539,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Agostino Rocca not used to communicate in
+A. unable
+B. italian
+Answer:","[' A', ' B']",0
+540,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Vijayawada Junction railway station is not located in
+A. india
+B. auxiliary
+Answer:","[' A', ' B']",1
+541,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Parippally is not located in
+A. propagation
+B. india
+Answer:","[' A', ' B']",0
+542,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Santo Spirito in Sassia is not located in
+A. italy
+B. macedonia
+Answer:","[' A', ' B']",1
+543,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tudeshk Rural District is not located in
+A. visitor
+B. iran
+Answer:","[' A', ' B']",0
+544,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Botswana Football Association is not located in
+A. botswana
+B. months
+Answer:","[' A', ' B']",1
+545,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of International Organization for Standardization is not
+A. twentieth
+B. english
+Answer:","[' A', ' B']",0
+546,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Ruovesi is not
+A. finnish
+B. wrestled
+Answer:","[' A', ' B']",1
+547,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Tervola is not
+A. croydon
+B. finnish
+Answer:","[' A', ' B']",0
+548,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Trinidad and Tobago is not
+A. english
+B. bicycle
+Answer:","[' A', ' B']",1
+549,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The official language of Pontianak Sultanate is not
+A. personalities
+B. malay
+Answer:","[' A', ' B']",0
+550,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lexus RX is not produced by
+A. toyota
+B. borough
+Answer:","[' A', ' B']",1
+551,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: BMW 1 Series is not produced by
+A. continue
+B. bmw
+Answer:","[' A', ' B']",0
+552,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Chevrolet Trax is not produced by
+A. chevrolet
+B. specialist
+Answer:","[' A', ' B']",1
+553,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dodge Dakota is not produced by
+A. copenhagen
+B. dodge
+Answer:","[' A', ' B']",0
+554,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nokia Lumia 630 is not produced by
+A. nokia
+B. stairwell
+Answer:","[' A', ' B']",1
+555,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Maharashtra is not
+A. northeastern
+B. mumbai
+Answer:","[' A', ' B']",0
+556,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Azerbaijan is not
+A. baku
+B. kidnapped
+Answer:","[' A', ' B']",1
+557,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of City of Brisbane is not
+A. pseudo
+B. brisbane
+Answer:","[' A', ' B']",0
+558,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Second Spanish Republic is not
+A. madrid
+B. unlock
+Answer:","[' A', ' B']",1
+559,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The capital of Apulia is not
+A. pillow
+B. bari
+Answer:","[' A', ' B']",0
+560,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Colchester Community Stadium is not owned by
+A. colchester
+B. broadway
+Answer:","[' A', ' B']",1
+561,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Google Scholar is not owned by
+A. wilhelm
+B. google
+Answer:","[' A', ' B']",0
+562,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Digital Audio Tape is not owned by
+A. sony
+B. parsons
+Answer:","[' A', ' B']",1
+563,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: MSN Games is not owned by
+A. bosses
+B. microsoft
+Answer:","[' A', ' B']",0
+564,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bavarian State Painting Collections is not owned by
+A. bavaria
+B. emperor
+Answer:","[' A', ' B']",1
+565,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: New Horizons was not written in
+A. motionless
+B. english
+Answer:","[' A', ' B']",0
+566,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Biblioteka Dlya Chteniya was not written in
+A. russian
+B. helpful
+Answer:","[' A', ' B']",1
+567,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Le Gaulois was not written in
+A. locals
+B. french
+Answer:","[' A', ' B']",0
+568,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kyrgyz Revolution of 2010 was not written in
+A. russian
+B. authorities
+Answer:","[' A', ' B']",1
+569,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: L'Officiel Hommes was not written in
+A. economy
+B. french
+Answer:","[' A', ' B']",0
+570,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kilby Island is not located in
+A. antarctica
+B. practically
+Answer:","[' A', ' B']",1
+571,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cape Monaco is not located in
+A. naming
+B. antarctica
+Answer:","[' A', ' B']",0
+572,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Morocco is not located in
+A. africa
+B. inscribed
+Answer:","[' A', ' B']",1
+573,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Somalia is not located in
+A. assault
+B. africa
+Answer:","[' A', ' B']",0
+574,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Congo basin is not located in
+A. africa
+B. passages
+Answer:","[' A', ' B']",1
+575,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: National Assembly of Quebec is not a legal term in
+A. vicious
+B. quebec
+Answer:","[' A', ' B']",0
+576,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Federal Court of Canada is not a legal term in
+A. canada
+B. stirring
+Answer:","[' A', ' B']",1
+577,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: National Council of Austria is not a legal term in
+A. alliance
+B. austria
+Answer:","[' A', ' B']",0
+578,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: National Council of the Slovak Republic is not a legal term in
+A. slovakia
+B. streak
+Answer:","[' A', ' B']",1
+579,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Hawaii Senate is not a legal term in
+A. edition
+B. hawaii
+Answer:","[' A', ' B']",0
+580,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Green Mount Cemetery is not a
+A. cemetery
+B. report
+Answer:","[' A', ' B']",1
+581,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Inferior gemellus muscle is not a
+A. madhya
+B. muscle
+Answer:","[' A', ' B']",0
+582,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Eden Roc Renaissance Hotel Miami Beach is not a
+A. hotel
+B. download
+Answer:","[' A', ' B']",1
+583,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kyle Rayner is not a
+A. bahadur
+B. superhero
+Answer:","[' A', ' B']",0
+584,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lake Livingston is not a
+A. reservoir
+B. slipped
+Answer:","[' A', ' B']",1
+585,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Steve Ballmer does not work for
+A. evacuated
+B. microsoft
+Answer:","[' A', ' B']",0
+586,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: UNESCO Goodwill Ambassador does not work for
+A. unesco
+B. vector
+Answer:","[' A', ' B']",1
+587,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tim Paterson does not work for
+A. scotch
+B. microsoft
+Answer:","[' A', ' B']",0
+588,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bill Gates does not work for
+A. microsoft
+B. holder
+Answer:","[' A', ' B']",1
+589,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zeinab Badawi does not work for
+A. minute
+B. bbc
+Answer:","[' A', ' B']",0
+590,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of University of South Florida is in
+A. tampa
+B. measurement
+Answer:","[' A', ' B']",1
+591,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Green Party of England and Wales is in
+A. vargas
+B. london
+Answer:","[' A', ' B']",0
+592,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of BayernLB is in
+A. munich
+B. border
+Answer:","[' A', ' B']",1
+593,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Iranian reform movement is in
+A. silence
+B. tehran
+Answer:","[' A', ' B']",0
+594,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The headquarter of Hooters is in
+A. atlanta
+B. athletics
+Answer:","[' A', ' B']",1
+595,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rachel Whiteread was not born in
+A. baptized
+B. london
+Answer:","[' A', ' B']",0
+596,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zhou Long was not born in
+A. beijing
+B. wondering
+Answer:","[' A', ' B']",1
+597,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Lord Edward Gleichen was not born in
+A. confronted
+B. london
+Answer:","[' A', ' B']",0
+598,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Daniele Franceschini was not born in
+A. rome
+B. telegraph
+Answer:","[' A', ' B']",1
+599,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Adam Kendon was not born in
+A. protect
+B. london
+Answer:","[' A', ' B']",0
+600,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: David Sainsbury, Baron Sainsbury of Turville never worked in
+A. london
+B. director
+Answer:","[' A', ' B']",1
+601,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Giulio Andreotti never worked in
+A. golfer
+B. rome
+Answer:","[' A', ' B']",0
+602,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Otto von Bismarck never worked in
+A. berlin
+B. shortage
+Answer:","[' A', ' B']",1
+603,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Andrew Lloyd Webber never worked in
+A. traditionally
+B. london
+Answer:","[' A', ' B']",0
+604,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cyril Smith never worked in
+A. london
+B. speeds
+Answer:","[' A', ' B']",1
+605,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bruce County is not located in
+A. nominate
+B. ontario
+Answer:","[' A', ' B']",0
+606,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Florence Charterhouse is not located in
+A. florence
+B. surgery
+Answer:","[' A', ' B']",1
+607,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Seoul station is not located in
+A. lethal
+B. seoul
+Answer:","[' A', ' B']",0
+608,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Zlatibor District is not located in
+A. serbia
+B. algerian
+Answer:","[' A', ' B']",1
+609,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Gulf Coast of the United States is not located in
+A. recovered
+B. texas
+Answer:","[' A', ' B']",0
+610,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Alexander VIII did not die in
+A. rome
+B. gandhi
+Answer:","[' A', ' B']",1
+611,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jean Nicolas Pierre Hachette did not die in
+A. navarro
+B. paris
+Answer:","[' A', ' B']",0
+612,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Peter Strudel did not die in
+A. vienna
+B. excavation
+Answer:","[' A', ' B']",1
+613,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Evgeny Lifshitz did not die in
+A. styled
+B. moscow
+Answer:","[' A', ' B']",0
+614,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ticky Holgado did not die in
+A. paris
+B. abbreviation
+Answer:","[' A', ' B']",1
+615,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Boston is not the capital of
+A. lately
+B. massachusetts
+Answer:","[' A', ' B']",0
+616,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Amsterdam is not the capital of
+A. netherlands
+B. nicholas
+Answer:","[' A', ' B']",1
+617,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jakarta is not the capital of
+A. cannon
+B. indonesia
+Answer:","[' A', ' B']",0
+618,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tallahassee is not the capital of
+A. florida
+B. educational
+Answer:","[' A', ' B']",1
+619,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Kigali is not the capital of
+A. emphasize
+B. rwanda
+Answer:","[' A', ' B']",0
+620,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: minicomputer is not a subclass of
+A. computer
+B. informs
+Answer:","[' A', ' B']",1
+621,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: quick bread is not a subclass of
+A. consolidated
+B. bread
+Answer:","[' A', ' B']",0
+622,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: splenic artery is not a subclass of
+A. artery
+B. change
+Answer:","[' A', ' B']",1
+623,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: landscape ecology is not a subclass of
+A. notice
+B. ecology
+Answer:","[' A', ' B']",0
+624,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: mainstream jazz is not a subclass of
+A. jazz
+B. fortunately
+Answer:","[' A', ' B']",1
+625,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The David Letterman Show was not originally aired on
+A. trafficking
+B. nbc
+Answer:","[' A', ' B']",0
+626,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Wire was not originally aired on
+A. hbo
+B. majority
+Answer:","[' A', ' B']",1
+627,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Andy Williams Show was not originally aired on
+A. torque
+B. nbc
+Answer:","[' A', ' B']",0
+628,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: College Football Live was not originally aired on
+A. espn
+B. philanthropist
+Answer:","[' A', ' B']",1
+629,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Tonight Show Starring Johnny Carson was not originally aired on
+A. psychic
+B. nbc
+Answer:","[' A', ' B']",0
+630,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dwaram Venkataswamy Naidu does not play
+A. violin
+B. eastman
+Answer:","[' A', ' B']",1
+631,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Brad Delson does not play
+A. promotion
+B. guitar
+Answer:","[' A', ' B']",0
+632,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rob Barrett does not play
+A. guitar
+B. admiral
+Answer:","[' A', ' B']",1
+633,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Aaron Lee Tasjan does not play
+A. budget
+B. guitar
+Answer:","[' A', ' B']",0
+634,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Claude Delvincourt does not play
+A. piano
+B. protector
+Answer:","[' A', ' B']",1
+635,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Football Association of Thailand is not a member of
+A. observers
+B. fifa
+Answer:","[' A', ' B']",0
+636,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: South African Football Association is not a member of
+A. fifa
+B. priorities
+Answer:","[' A', ' B']",1
+637,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Austrian Football Association is not a member of
+A. lecturer
+B. fifa
+Answer:","[' A', ' B']",0
+638,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Football Association of Finland is not a member of
+A. fifa
+B. calvin
+Answer:","[' A', ' B']",1
+639,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Football Association of Brunei Darussalam is not a member of
+A. application
+B. fifa
+Answer:","[' A', ' B']",0
+640,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Idol 2010 is not part of
+A. idol
+B. arguments
+Answer:","[' A', ' B']",1
+641,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Greater Antilles is not part of
+A. hovered
+B. caribbean
+Answer:","[' A', ' B']",0
+642,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Old Egyptian is not part of
+A. egyptian
+B. mechanism
+Answer:","[' A', ' B']",1
+643,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: IBM Research is not part of
+A. facial
+B. ibm
+Answer:","[' A', ' B']",0
+644,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tate Modern is not part of
+A. tate
+B. satisfy
+Answer:","[' A', ' B']",1
+645,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Slayers Great was not created in
+A. superior
+B. japan
+Answer:","[' A', ' B']",0
+646,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Hell Girl was not created in
+A. japan
+B. plains
+Answer:","[' A', ' B']",1
+647,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dual! Parallel Trouble Adventure was not created in
+A. hopeless
+B. japan
+Answer:","[' A', ' B']",0
+648,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: J-pop was not created in
+A. japan
+B. bruised
+Answer:","[' A', ' B']",1
+649,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jo Jeeta Wohi Super Star was not created in
+A. schooling
+B. india
+Answer:","[' A', ' B']",0
+650,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bradford Regional Airport is not named after
+A. bradford
+B. patriarch
+Answer:","[' A', ' B']",1
+651,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Darlington railway station is not named after
+A. stockholm
+B. darlington
+Answer:","[' A', ' B']",0
+652,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Stamford A.F.C. is not named after
+A. stamford
+B. devoid
+Answer:","[' A', ' B']",1
+653,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Athens County is not named after
+A. garrison
+B. athens
+Answer:","[' A', ' B']",0
+654,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Manchester Airport is not named after
+A. manchester
+B. judgment
+Answer:","[' A', ' B']",1
+655,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of De Wereld Draait Door is not
+A. mistakenly
+B. dutch
+Answer:","[' A', ' B']",0
+656,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Varudu is not
+A. telugu
+B. millimetres
+Answer:","[' A', ' B']",1
+657,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Mouna Ragam is not
+A. ambushed
+B. tamil
+Answer:","[' A', ' B']",0
+658,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Abhiyum Naanum is not
+A. tamil
+B. assessed
+Answer:","[' A', ' B']",1
+659,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The original language of Bella Notte is not
+A. analyst
+B. italian
+Answer:","[' A', ' B']",0
+660,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: nickel(II) hydroxide does not consist of
+A. nickel
+B. woodrow
+Answer:","[' A', ' B']",1
+661,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: jollof rice does not consist of
+A. perennial
+B. rice
+Answer:","[' A', ' B']",0
+662,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: iron(II,III) oxide does not consist of
+A. iron
+B. unfair
+Answer:","[' A', ' B']",1
+663,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: nickel silver does not consist of
+A. shrine
+B. copper
+Answer:","[' A', ' B']",0
+664,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: fossil fuel does not consist of
+A. petroleum
+B. symmetry
+Answer:","[' A', ' B']",1
+665,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: University of Edinburgh is not located in
+A. character
+B. edinburgh
+Answer:","[' A', ' B']",0
+666,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: OKK Beograd is not located in
+A. belgrade
+B. homosexual
+Answer:","[' A', ' B']",1
+667,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Ano Liosia Olympic Hall is not located in
+A. strikeouts
+B. athens
+Answer:","[' A', ' B']",0
+668,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Harlem International Film Festival is not located in
+A. harlem
+B. southampton
+Answer:","[' A', ' B']",1
+669,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Channel 4's Comedy Gala is not located in
+A. laurence
+B. london
+Answer:","[' A', ' B']",0
+670,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: What is not the primary reason my duck feather filled jacket works well against the snow
+A. feathers slows heat transfer
+B. small flexible solar panels
+Answer:","[' A', ' B']",1
+671,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Turning a piece of paper into a ball is not an example of
+A. flattening
+B. squashing
+Answer:","[' A', ' B']",0
+672,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Pushing on a pedal isn't an example of
+A. force
+B. speed
+Answer:","[' A', ' B']",1
+673,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Camel humps are not a good example of
+A. Iraqi roadside prime cuisine
+B. changing to meet the environment
+Answer:","[' A', ' B']",0
+674,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person puts a potato in some embers on the edge of a campfire. The embers are not
+A. doing a thermal release
+B. taking in the warmth
+Answer:","[' A', ' B']",1
+675,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a bucket of water from the sea is left out in the sun for long enough, all that will eventually remain in the bucket isn't
+A. grapes
+B. sodium
+Answer:","[' A', ' B']",0
+676,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If you're looking for the rock between the 2nd and the 4th from our star you are not looking for
+A. earth
+B. pluto
+Answer:","[' A', ' B']",1
+677,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: an example of an excellent earth mover isn't
+A. cat
+B. annelids
+Answer:","[' A', ' B']",0
+678,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Quartz crystals aren't made up of
+A. hexagons
+B. majic
+Answer:","[' A', ' B']",1
+679,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Two wheeled conveyances are not held together by
+A. glue
+B. helically ridged pins
+Answer:","[' A', ' B']",0
+680,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: a producer is not a source of energy for
+A. external food eaters
+B. rubber
+Answer:","[' A', ' B']",1
+681,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Redwoods are not supported by
+A. donations from the environmental protection agency
+B. very large and thick trunks
+Answer:","[' A', ' B']",0
+682,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a person enjoys star gazing the best place to live is not
+A. the countryside
+B. the big city
+Answer:","[' A', ' B']",1
+683,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A thermal conductor isn't made of
+A. electrodes
+B. often metallic
+Answer:","[' A', ' B']",0
+684,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Viewing stars is not made easier by
+A. technology that collects electromagnetic radiation
+B. technology that picks up sound in space
+Answer:","[' A', ' B']",1
+685,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The substance that the respiratory system takes in from the air isn't released by
+A. insects
+B. plants
+Answer:","[' A', ' B']",0
+686,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a see through thing is multifaceted, it isn't most likely
+A. a quartz square
+B. a silver globe
+Answer:","[' A', ' B']",1
+687,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: What anchors plants into the soil are not called
+A. large anchors made of metal
+B. the same as an american television miniseries about slavery
+Answer:","[' A', ' B']",0
+688,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: An example of thermal energy isn't
+A. Drying our clothes in the sun
+B. crying in a school bathroom
+Answer:","[' A', ' B']",1
+689,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person drops a bean in the dirt, and kicks some dirt over it. If the person goes to dig up that bean a month later, it isn't likely to have
+A. shrunk
+B. sprouted
+Answer:","[' A', ' B']",0
+690,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Much iron is not in
+A. Earth's second layer
+B. empty
+Answer:","[' A', ' B']",1
+691,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The type of climate change known as anthropogenic isn't caused by this:
+A. volcanic activity
+B. humanity
+Answer:","[' A', ' B']",0
+692,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The crust is not made of different kinds of
+A. stone
+B. stars
+Answer:","[' A', ' B']",1
+693,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The black bear in Alaska isn't known for hunting this type of feast
+A. moose
+B. fish
+Answer:","[' A', ' B']",0
+694,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A cypress tree's stout roots splitting asphalt is not an example of
+A. weathering
+B. beer
+Answer:","[' A', ' B']",1
+695,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: When the moon, sun, and earth line up, tides aren't at their
+A. Happy
+B. Max
+Answer:","[' A', ' B']",0
+696,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A cloud gets fat and heavy and dark. The sky gets darker. The next step to expect is not
+A. precipitation
+B. flowers
+Answer:","[' A', ' B']",1
+697,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Which isn't recyclable
+A. Styrofoam food container
+B. soda can
+Answer:","[' A', ' B']",0
+698,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A renewable resource is not used to produce
+A. notebook paper
+B. plastic rulers
+Answer:","[' A', ' B']",1
+699,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A light isn't refracted when
+A. it shines at a mirror
+B. it shines at a gem
+Answer:","[' A', ' B']",0
+700,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Which isn't a visible example of water vapor
+A. aerial clouds
+B. snow
+Answer:","[' A', ' B']",1
+701,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: In the natural world, camouflage is not used by animals to
+A. stay warm in the winter
+B. avoid being a meal
+Answer:","[' A', ' B']",0
+702,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Our only star provides us with energy that isn't
+A. reusable
+B. temporary
+Answer:","[' A', ' B']",1
+703,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: a seismograph is not a kind of tool for measuring the size of
+A. planets
+B. terra plate displacements
+Answer:","[' A', ' B']",0
+704,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: 365 solar cycles isn't equivalent to
+A. one trip around the sun
+B. 2 years in deep space
+Answer:","[' A', ' B']",1
+705,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A full moon is not caused by
+A. moonlight
+B. orbiting
+Answer:","[' A', ' B']",0
+706,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Soil quality is not improved when
+A. organisms pass and rot away
+B. microscopic insects infest the landscape
+Answer:","[' A', ' B']",1
+707,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: As the barometer reading goes lower there is not a greater chance of
+A. sunshine
+B. getting wet
+Answer:","[' A', ' B']",0
+708,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a cat has a body temp that is below average, it isn't in
+A. danger
+B. safe ranges
+Answer:","[' A', ' B']",1
+709,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Snow isn't more likely to fall two months before
+A. June
+B. March
+Answer:","[' A', ' B']",0
+710,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Dead plants are not easier to find in
+A. January
+B. September
+Answer:","[' A', ' B']",1
+711,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: This object in your pocket isn't the most likely to shock you
+A. your library card
+B. your phone
+Answer:","[' A', ' B']",0
+712,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: panting isn't the equivalent to humans
+A. expelling water from their dermis
+B. drowning in a small puddle
+Answer:","[' A', ' B']",1
+713,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A thing which ferns have in endless supply when expanding isn't
+A. darkness
+B. dirt
+Answer:","[' A', ' B']",0
+714,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A boy hates summer with a burning passion, so luckily the longest he should ever have to endure the season isn't
+A. twelve weeks
+B. nine months
+Answer:","[' A', ' B']",1
+715,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: One way to remember the method of Scientific Classification is not
+A. run
+B. make a sentence
+Answer:","[' A', ' B']",0
+716,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rabbits with white fur aren't hardest to detect in
+A. the arctic in Winter
+B. The middle of a well-lit street
+Answer:","[' A', ' B']",1
+717,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: All the food in the fridge is warm on a remote farm with a windmill. The most likely cause is not
+A. it's a very windy day
+B. it's a windless day
+Answer:","[' A', ' B']",0
+718,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: It isn't easiest to get a clear photo of the moon by
+A. using a telescopic lens
+B. looking through a microscope
+Answer:","[' A', ' B']",1
+719,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A way to conserve something isn't to
+A. use it quickly
+B. use it sparsely
+Answer:","[' A', ' B']",0
+720,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If your dog is not overweight
+A. cut back their caloric intake
+B. let them sleep more
+Answer:","[' A', ' B']",1
+721,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A mouse is not made up of
+A. dairy
+B. organic material
+Answer:","[' A', ' B']",0
+722,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A place where penguins exist with pods of black and white mammals is not
+A. uninhabitable by iguanas
+B. painted with cream
+Answer:","[' A', ' B']",1
+723,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A woman is digging under a tree on a tall mountain. She is looking for interesting rocks, and a foot down into the soil, discovers a fossilized fish skeleton. From this discovery, the woman is not able to determine that
+A. sometimes rain can move fish to high spaces
+B. the mountain used to be underwater
+Answer:","[' A', ' B']",0
+724,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: one inherited characteristic of fur isn't it's
+A. hue
+B. weight
+Answer:","[' A', ' B']",1
+725,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The creation of sediment is not produced by
+A. chemicals compounds combining together
+B. the break down of other materials
+Answer:","[' A', ' B']",0
+726,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bluebirds are not found in
+A. vast green fields
+B. glaciers
+Answer:","[' A', ' B']",1
+727,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Leaving remain oil supplies alone isn't a form of
+A. transportation
+B. conservation
+Answer:","[' A', ' B']",0
+728,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: the hourly totals of sunshine aren't directly connect to
+A. seasons
+B. altitude
+Answer:","[' A', ' B']",1
+729,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: something that can negatively impact an organisms health is not
+A. chemistry
+B. chickenpox
+Answer:","[' A', ' B']",0
+730,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A container with a printed scale on it's side is not used to
+A. measure volume
+B. hold flowers
+Answer:","[' A', ' B']",1
+731,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Your clothes likely will be soaked if the skies aren't
+A. sunny without clouds
+B. black
+Answer:","[' A', ' B']",0
+732,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a thing is going between liquid and solid, it is not likely to
+A. measure consistently
+B. be a door
+Answer:","[' A', ' B']",1
+733,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: There isn't a heightened threat of landslide in
+A. the ocean
+B. The Andes
+Answer:","[' A', ' B']",0
+734,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A moth leaving it's cocoon isn't the final step in a
+A. transformation
+B. life cycle
+Answer:","[' A', ' B']",1
+735,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a puppy steps on a lit cigarette, it is not likely
+A. happy
+B. pained
+Answer:","[' A', ' B']",0
+736,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A landslide is not likely to occur on a slope as
+A. downward movement is facilitated
+B. there is more debris
+Answer:","[' A', ' B']",1
+737,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The organisms likely to have the waxiest leaves aren't
+A. gorilla
+B. jades
+Answer:","[' A', ' B']",0
+738,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Corn and wheat aren't among the favorite foods of
+A. humans
+B. fish
+Answer:","[' A', ' B']",1
+739,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A thing's position is not altered when
+A. thing feels moved emotionally
+B. the thing adjusts its location
+Answer:","[' A', ' B']",0
+740,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A way to tell if a rock could possibly hold Fe inside is not to
+A. hover a magnet over it
+B. take the rock home
+Answer:","[' A', ' B']",1
+741,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The leading cause of soil and rock erosion is not
+A. NaCl
+B. H2O
+Answer:","[' A', ' B']",0
+742,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A horse is outside alone in the middle of summer on a sunny day in a desert. The horse is getting wet. The wetness is not coming from
+A. sweat glands
+B. orange juice
+Answer:","[' A', ' B']",1
+743,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A family moves into an old home that mice have moved into. Soon after the human family moves in, the family of mice aren't likely to
+A. be frozen
+B. be ejected
+Answer:","[' A', ' B']",0
+744,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: steam isn't a kind of water above
+A. 373 kelvin
+B. jupiter
+Answer:","[' A', ' B']",1
+745,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nearly all prehistoric bones are not found in
+A. granite
+B. shale
+Answer:","[' A', ' B']",0
+746,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A mighty river flows through an area for millennia. Afterwards, it can be noted that where there once were shallow rivers, there aren't now
+A. massive canyons
+B. old socks
+Answer:","[' A', ' B']",1
+747,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A thermal conductor is not made of
+A. types of wire
+B. that which conducts
+Answer:","[' A', ' B']",0
+748,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Earth's closest heat source isn't
+A. our celestial fireball
+B. gamma rays
+Answer:","[' A', ' B']",1
+749,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Personal protection equipment isn't essential when
+A. wearing a sports cup
+B. experimenting with volatile and vaporous liquids
+Answer:","[' A', ' B']",0
+750,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person is wondering how much the steam from the pot of water that is boiling will measure. They are not able to measure it in a definite way by
+A. collecting the condensed liquid
+B. making the liquid condense outdoors
+Answer:","[' A', ' B']",1
+751,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: nutrients from food and water are not necessary to an organism's
+A. friendships
+B. survival
+Answer:","[' A', ' B']",0
+752,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If the ground is fully shaded, and plants there barely grow, likely the reason isn't
+A. oaks there are mighty
+B. birds there are fat
+Answer:","[' A', ' B']",1
+753,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a thing is electrically insulated, then it is not
+A. metal inside, metal outside
+B. metal inside, other material outside
+Answer:","[' A', ' B']",0
+754,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: One way to retain your own thermal energy is not to
+A. wear fluffy socks
+B. sit in snow
+Answer:","[' A', ' B']",1
+755,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Which of these isn't less likely to cause pollution
+A. chopper
+B. mountain bike
+Answer:","[' A', ' B']",0
+756,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If a person wants to save the environment, a thing they can try isn't
+A. reusing plastic dishware
+B. burning more plastic
+Answer:","[' A', ' B']",1
+757,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The crust under everyone's feet isn't
+A. the ice that forms in cold regions
+B. the outer covering of the third planet from the sun
+Answer:","[' A', ' B']",0
+758,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sleet is not
+A. potentially dangerous
+B. poison
+Answer:","[' A', ' B']",1
+759,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: We are trying to use air as sources of energy because there is an infinite amount of it, same with water. These are not two examples of
+A. Limited resources
+B. Renewable resources
+Answer:","[' A', ' B']",0
+760,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: What separates animals that thrive and those that go extinct are not
+A. the ability to adapt
+B. the type of animal
+Answer:","[' A', ' B']",1
+761,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Nectar isn't taken to
+A. flowers
+B. a hive
+Answer:","[' A', ' B']",0
+762,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The appropriate place to put this item isn't the recycling bin
+A. used soda can
+B. used Styrofoam plates
+Answer:","[' A', ' B']",1
+763,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Avoiding the use of fossil fuel is not an example of
+A. Ecosystem Vulnerability
+B. Conservationism
+Answer:","[' A', ' B']",0
+764,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: As a lake increases in size, there aren't more
+A. catfish
+B. volcanoes
+Answer:","[' A', ' B']",1
+765,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A sunburn isn't most likely to happen after hiking in a
+A. wetland
+B. desert
+Answer:","[' A', ' B']",0
+766,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: the oceans aren't full of
+A. sea life
+B. fresh water
+Answer:","[' A', ' B']",1
+767,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Winter in the northern hemisphere is not occurring on
+A. the day after July 4th
+B. the day after November 30th
+Answer:","[' A', ' B']",0
+768,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The transportation with the most mass isn't likely a
+A. commercial plane
+B. private car
+Answer:","[' A', ' B']",1
+769,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: when a tadpole changes into a frog, the tadpole isn't like
+A. a grape
+B. a maggot
+Answer:","[' A', ' B']",0
+770,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: There are less hummingbirds by this house than before not because of
+A. a feeder at another house
+B. the size of the feeder
+Answer:","[' A', ' B']",1
+771,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A goose needs to move to warmer states for the winter. Leaving its summer home, it heads out without a map, not because it can always find the right way by using
+A. a compass that points north
+B. the Earth's magnetic patterns
+Answer:","[' A', ' B']",0
+772,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Driving during a snow storm or strong thunderstorm is a bad idea not because bad weather makes it
+A. harder to see
+B. able to fly
+Answer:","[' A', ' B']",1
+773,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The Appalachians reach amazing heights not because of how stone
+A. created anchors
+B. piles together
+Answer:","[' A', ' B']",0
+774,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A small rodent will fear a creature such as a fox not because
+A. foxes enjoy rodent dinners
+B. mice are able to fly
+Answer:","[' A', ' B']",1
+775,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A cow can see that the farmer is coming not because there is light that makes its way
+A. into a bucket
+B. into his eyes
+Answer:","[' A', ' B']",0
+776,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Humans have the ability to change how much they weigh, but we cannot change how tall we are not because that is
+A. hereditary
+B. Too hard
+Answer:","[' A', ' B']",1
+777,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A young boy is reprimanded by his mother for sleeping with his heavy blankets over his head. His mother is worried that if the boy continues to sleep like that, he will suffocate. This is not because
+A. beds can cause issues with breathing
+B. CO2 in large amounts is fatal
+Answer:","[' A', ' B']",0
+778,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Insomniacs are less healthy than other people not because they
+A. rarely slumber
+B. are in space
+Answer:","[' A', ' B']",1
+779,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: There are many protests and outraged people about humans changing the environment of the rain forest not because changing even something small in an environment can
+A. make it laugh
+B. wreck it
+Answer:","[' A', ' B']",0
+780,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person can be punched in the chest without the heart stopping not because
+A. ribs guard it
+B. hearts are hollow
+Answer:","[' A', ' B']",1
+781,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: An electric car uses less gasoline than a regular car not because
+A. gas is unable to be used
+B. power is prioritized over gas
+Answer:","[' A', ' B']",0
+782,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A camel can survive in the desert not because of
+A. hoarded energy
+B. horses
+Answer:","[' A', ' B']",1
+783,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Venus fly traps are poor at creating their own food though photosynthesis not because
+A. they need water
+B. they require insects
+Answer:","[' A', ' B']",0
+784,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A creature can hide in plain sight from predators not because
+A. it misdirects
+B. it burns
+Answer:","[' A', ' B']",1
+785,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A bear hibernates through cold weather not because
+A. winter is too cold
+B. resources are scarce in winter
+Answer:","[' A', ' B']",0
+786,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: When an animal goes into a den during cold weather they probably did this not because
+A. their ancestors did the same thing
+B. they are escaping predators
+Answer:","[' A', ' B']",1
+787,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If Paul is playing basketball and finds that his skin is becoming wet and smelly, it might be not because
+A. His body is too cold
+B. His body is trying to lower its temperature
+Answer:","[' A', ' B']",0
+788,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A flashlight works not because the batteries inside of it produce chemical energy that
+A. is transferred to another type
+B. burn into the plastic
+Answer:","[' A', ' B']",1
+789,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The inside of the Thanksgiving turkey is white instead of pink not because of
+A. light energy
+B. heat energy
+Answer:","[' A', ' B']",0
+790,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Greenhouses work not because
+A. air retains humidity and warmth
+B. gasses are trapped in buildings
+Answer:","[' A', ' B']",1
+791,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: More carbon dioxide is in the air in the past decade than ever before, probably not because
+A. more plant life
+B. human population increased
+Answer:","[' A', ' B']",0
+792,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Water, while a finite resource, is renewable not because
+A. water is quite cyclical
+B. water is found in trees
+Answer:","[' A', ' B']",1
+793,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Worms are excellent decomposers not because
+A. worms enjoy eating dirt and decay
+B. they enjoy eating carcasses and expel waste back to earth
+Answer:","[' A', ' B']",0
+794,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The reason you tend to think of the color white when you think of environments where its constantly freezing, is not because those place get tons of
+A. snowfall
+B. droughts
+Answer:","[' A', ' B']",1
+795,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: One of the reasons some species go extinct is not because predators
+A. go dancing with them
+B. murder too many of them
+Answer:","[' A', ' B']",0
+796,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Runoff happens not because of
+A. people
+B. cattails
+Answer:","[' A', ' B']",1
+797,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Doing this in national parks and many other wooded areas is illegal not because it harms the environment
+A. talking
+B. ditching your junk
+Answer:","[' A', ' B']",0
+798,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The rhino population is smaller than before not because
+A. people use parts for health remedies
+B. cars crashed into rhinos
+Answer:","[' A', ' B']",1
+799,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: When a person gets hurt physically, the person feels pain not because there are
+A. magic receptors
+B. electric reactions
+Answer:","[' A', ' B']",0
+800,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person discovers a dinosaur skeleton in their backyard under a lot of dirt. The skeleton is lacking the bright whiteness of bones, not because it is
+A. trapped in stone
+B. filled with beer
+Answer:","[' A', ' B']",1
+801,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Fish are quickly caught in water not because of the webbed feet possessed by a
+A. cheetah
+B. penguin
+Answer:","[' A', ' B']",0
+802,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A ship navigates with a magnetic compass not because it is
+A. predictable
+B. tradition
+Answer:","[' A', ' B']",1
+803,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened not because of
+A. ice forming on the road
+B. a sudden fog moving into the area
+Answer:","[' A', ' B']",0
+804,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A star produces light energy and heat not because it has a variety of
+A. reactions of nuclear form
+B. moon rotation causing friction
+Answer:","[' A', ' B']",1
+805,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Another term for wind energy is clean energy not because the wind and air contains
+A. moon
+B. zero pollutants
+Answer:","[' A', ' B']",0
+806,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Water needs to be clean in order for someone to safely drink it. Drinking polluted water is bad not because it is the same as drinking
+A. poison
+B. rocks
+Answer:","[' A', ' B']",1
+807,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cows know there is salt in a mineral lick not because
+A. they evolved where there were great redwood trees
+B. they have receptors on their tongue that allow them to experience spice and seasonings
+Answer:","[' A', ' B']",0
+808,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Roads need repaved in spring not because
+A. ice ruins them
+B. they are cold
+Answer:","[' A', ' B']",1
+809,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person in the woods who accidentally runs into a wild wolf will have little to fear not because
+A. wolves smoke people
+B. wolves evade people
+Answer:","[' A', ' B']",0
+810,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The reason that ducks are such excellent swimmers is not because
+A. ducks have extra foot skin
+B. ducks are buoyant and resilient
+Answer:","[' A', ' B']",1
+811,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The main reason people want to use wind as an energy source is not because there is
+A. make cookies
+B. an everlasting supply
+Answer:","[' A', ' B']",0
+812,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A cop can tell that a car is speeding not because it is
+A. cruising quickly
+B. moving forward
+Answer:","[' A', ' B']",1
+813,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person knows that a place always has blue skies, warm weather and a light breeze not because
+A. that is the beach
+B. climate is fairly reliable
+Answer:","[' A', ' B']",0
+814,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Squirrels are seed dispersers not because
+A. they bury their food
+B. they eat lots of nuts
+Answer:","[' A', ' B']",1
+815,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A pod of dolphins is swimming while searching for food. The youngest dolphin swims away from the pod and is lost. The rest of the pod searches for the young dolphin by clicking into the water. The young dolphin is found not because of
+A. sound of water
+B. echoes from noise
+Answer:","[' A', ' B']",0
+816,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Rocket engines can lift rockets not because
+A. of the power the hit the ground with
+B. of how fast they are
+Answer:","[' A', ' B']",1
+817,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Some animals get caught easily by other animals not because they are slow while the predators are
+A. manipulative
+B. speedy
+Answer:","[' A', ' B']",0
+818,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Bats hunt through echolocation not because
+A. their chirps are sent back after bouncing
+B. bats can only hear echoes
+Answer:","[' A', ' B']",1
+819,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Saturn hangs around not because of
+A. Saturnalia
+B. a central star
+Answer:","[' A', ' B']",0
+820,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Using wind in order to power factories is a good idea not because
+A. it can be gotten continuously
+B. it is free from dirt
+Answer:","[' A', ' B']",1
+821,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A polar bear is white not because
+A. it wants to make a Grizzly bear jealous
+B. its parents had white fur
+Answer:","[' A', ' B']",0
+822,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jackrabbits live in very hot environments, but are able to stay cool not because their long ears help
+A. releasing warmth
+B. change tires
+Answer:","[' A', ' B']",1
+823,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Feeling sweaty is normal on the ocean not because
+A. the desert is drier
+B. there is more moisture in the air
+Answer:","[' A', ' B']",0
+824,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: When we think of bees, we also think of pollen. This is not because bees
+A. consume it
+B. sell it
+Answer:","[' A', ' B']",1
+825,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Make sure to protect your eyes when working with chemicals not because they can easily do what if handled wrong
+A. nothing
+B. spatter upward
+Answer:","[' A', ' B']",0
+826,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A light was off not because the cord was
+A. sitting on the table
+B. attached to a battery pack
+Answer:","[' A', ' B']",1
+827,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: People are switching to electric cars not because cars that use gas
+A. cry
+B. dirty the air
+Answer:","[' A', ' B']",0
+828,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: a reptile that was brown an hour later is now green not because
+A. it's sitting in a leafy shrub and using camouflage
+B. red paint was poured over it
+Answer:","[' A', ' B']",1
+829,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A metal sticker remains on a fridge not because of
+A. magic that Juggaloes are unable to explain
+B. a force that pulls two objects together
+Answer:","[' A', ' B']",0
+830,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A television may turn on at the push of a button not because
+A. the path of electricity is completed
+B. the television is pretty short
+Answer:","[' A', ' B']",1
+831,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Alice flipped a switch and the ceiling fan started running not because
+A. a circuit was opened
+B. a circuit was closed
+Answer:","[' A', ' B']",0
+832,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Plants brought to the western United States from the eastern United States often die not because of
+A. the wrong climate
+B. bad planting methods
+Answer:","[' A', ' B']",1
+833,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Recently, a lot of people, en masse, were told that they should take an opportunity to cast an image of an object through a pinhole onto a screen, in order to best enjoy an activity. This was not because
+A. science tells us eclipses are scary
+B. avoiding looking directly at an eclipse is important
+Answer:","[' A', ' B']",0
+834,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A compass uses natural magnetism so it works only not because
+A. the Earth yanks it
+B. the Earth is fat
+Answer:","[' A', ' B']",1
+835,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: In addition to a slippery road, blizzards can be dangerous to drive in not because
+A. a tornado is likely to pick up your car
+B. you may only see a car in front of you when it's too late
+Answer:","[' A', ' B']",0
+836,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: It's too foggy to see more than two feet on a highway. This is not because of
+A. vapor of H2O condensed in the air
+B. helium vapor in the air
+Answer:","[' A', ' B']",1
+837,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Riding a two wheeled human powered vehicle is good for the environment not because
+A. it helps people stay in shape
+B. it runs without fuel
+Answer:","[' A', ' B']",0
+838,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Asking a blind person to look at something is rude not because they are
+A. unable to see
+B. unable to speak
+Answer:","[' A', ' B']",1
+839,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person is reading a map and gets frustrated. The map ends up in a hundred scraps on the floor not because the person
+A. burned it
+B. ripped it
+Answer:","[' A', ' B']",0
+840,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Being able to enjoy eating Mideastern dates in a small town in the USA is possible not because
+A. transporting food became easier, cheaper, and quicker
+B. transported food tastes great
+Answer:","[' A', ' B']",1
+841,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A shark will be unable to survive on eating algae and moss, not because
+A. it is a vegetarian
+B. it is a predator
+Answer:","[' A', ' B']",0
+842,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: powered on lightbulbs burst with cold water not because they
+A. the inside is hot
+B. the inside is also cool
+Answer:","[' A', ' B']",1
+843,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The moon is bright in the night sky, especially when full not because
+A. batteries power it
+B. sunlight brightens it
+Answer:","[' A', ' B']",0
+844,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Billy's new puppy had floppy ears. That might be not because
+A. The puppy's mother had ears that looked the same way
+B. The puppy was tired
+Answer:","[' A', ' B']",1
+845,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A person wanting to find a live bear in a forest will have difficulty not because bears
+A. are friendly
+B. avoid humanity
+Answer:","[' A', ' B']",0
+846,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: All the water vanishes from a small depression basked in sunlight on a paved road not because of
+A. evaporation
+B. condensation
+Answer:","[' A', ' B']",1
+847,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Sandbars are a part of most seas not because there are
+A. places where fish eat
+B. waves which adjust silt
+Answer:","[' A', ' B']",0
+848,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A barracuda will be able to raise its own offspring not because
+A. it is alive
+B. it is troubled
+Answer:","[' A', ' B']",1
+849,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Frogs withstand noisy areas easily when they eat insects not because they have
+A. problems jumping
+B. zero eardrums
+Answer:","[' A', ' B']",0
+850,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: If you're stuck outside on a sunny day, the coolest place would be under a tree not because they do what to the sunlight
+A. block it out
+B. sell it
+Answer:","[' A', ' B']",1
+851,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Milk sold in supermarkets is pasteurized not because
+A. all raw milk is safe
+B. to keep bacteria from getting into the milk after the customer buys it
+Answer:","[' A', ' B']",0
+852,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: There are very few species of plants and animals in places like the North Pole not because the temperatures are always very
+A. low
+B. muggy
+Answer:","[' A', ' B']",1
+853,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: As a soccer ball goes flying through the air, the person watching it knows that the reason is not because
+A. everything is aerial
+B. exerting occurred
+Answer:","[' A', ' B']",0
+854,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Jane's hat flew off her head while standing still on a hilltop. This could be not because
+A. there was uneven heating of the ground
+B. her head blew the hat off
+Answer:","[' A', ' B']",1
+855,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: All the deer in one area moved away. This could be not because
+A. The deer went for a walk and got lost
+B. all the trees had died from disease and fell down
+Answer:","[' A', ' B']",0
+856,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The hamster was malnourished not because
+A. There was a depletion in the corn supply
+B. It was waiting for the key to get the food
+Answer:","[' A', ' B']",1
+857,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A boy is standing in the bathroom brushing his teeth, but the lights are off in the bathroom. However, his room is next to the bathroom and his bedroom light is on. The bathroom is still bright, not because the mirror reflects
+A. light from the bathroom
+B. light from the bedroom
+Answer:","[' A', ' B']",0
+858,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A herd of cattle is slowly making its way through a large field. The shepherd realizes that he forgot to bring grain for the cattle, yet the cattle will survive just fine in the field, not because
+A. they eat roughage
+B. they eat insects
+Answer:","[' A', ' B']",1
+859,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: I have to plug in a processor of food not because it
+A. is a battery operated machine
+B. is an electric Motor
+Answer:","[' A', ' B']",0
+860,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: The dust bowl happened not because of
+A. unsustainable farming practice
+B. sweeping reform
+Answer:","[' A', ' B']",1
+861,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A car drives right past the gas station not because it's motor is
+A. coal
+B. electric
+Answer:","[' A', ' B']",0
+862,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A tortoise died many years ago, but it is easy to tell that what was left behind was from a tortoise not because in the rock there are
+A. skeletal system
+B. muscles
+Answer:","[' A', ' B']",1
+863,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A river can push tin cans down the path of the water not because
+A. it is loud
+B. it has motion
+Answer:","[' A', ' B']",0
+864,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A strawberry is in zero way a true berry not because it
+A. has seeds outside the flesh, unlike the blueberry
+B. is too wet inside
+Answer:","[' A', ' B']",1
+865,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: An island can sprout up from seemingly suddenly not because
+A. underwater volcanoes are invisible
+B. underwater volcanoes are hidden
+Answer:","[' A', ' B']",0
+866,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Tungsten is a metal which is found in large amounts in filaments, which are used in incandescent light bulbs. These light bulbs work not because
+A. the filament glows warmly
+B. light bulbs get very warm
+Answer:","[' A', ' B']",1
+867,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Cars are big polluters not because they release toxins from the gas into the air making it
+A. space
+B. unhealthy to breathe
+Answer:","[' A', ' B']",0
+868,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: Geese fly south for the winter not because
+A. of instinct
+B. their following orders
+Answer:","[' A', ' B']",1
+869,"The following are multiple choice questions (with answers) about common sense.
+        
+Question: A man grows flowers in the winter using his greenhouse. The flowers blossom there, despite the cold, freezing weather and lack of sunshine, not because
+A. they are regularly chilled
+B. they are carefully protected
+Answer:","[' A', ' B']",0
